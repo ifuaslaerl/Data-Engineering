@@ -1,0 +1,556 @@
+DRE Turma P1
+121175293 13928
+123705921 13928 2.2
+122150589 13928 1.3
+120184273 13928 0.0
+121127795 13928
+122152298 13928 2.0
+121090370 13928 0.0
+122073834 13928 1.3
+122062493 13928 3.5
+121092102 13928 1.0
+122177531 13928 3.3
+123354576 13928 1.5
+122155694 13928 2.0
+122074555 13928 5.0
+121137203 13928
+115083103 13928
+122122324 13928
+121096465 13928 1.7
+118199149 13928 0.6
+121071813 13928 6.5
+123724894 13928
+122059026 13928 0.5
+115209212 13928
+123433605 13928 1.5
+123433605 13928 1.5
+118040992 13928
+120054800 13928 4.3
+122149596 13928
+119033053 13928
+122145186 13928 2.1
+122043889 13928 6.0
+122126271 13928 5.8
+122060580 13928 5.1
+122054856 13928 2.8
+121103678 13928 0.5
+122068164 13928 3.5
+122031523 13928
+120124948 13928 1.8
+123084927 13928 2.8
+121148440 13928
+121146236 13928 9.3
+121158225 13928 0.5
+118167906 13928
+121159213 13928 5.2
+115030867 13928
+122049128 13928 6.8
+121093336 13928 0.0
+122136080 13928
+122048499 13928
+123230405 13928 4.2
+120019355 13928 0.0
+118051503 13928 0.5
+121058857 13928
+120151521 13928 3.0
+122120885 13928 2.8
+122060483 13928
+122047087 13928 3.5
+119141262 13928
+122046772 13928
+123693792 13928 0.8
+121150382 13928
+122134614 13928 5.3
+123709975 13928 2.2
+118113648 13928
+116020328 13928
+122130165 13928
+120029839 13928
+123205793 13928 3.7
+118043796 13928
+122063392 - 3.6
+123679340 - 3.0
+123676627 - 2.6
+122053313 - 3.2
+122067786 - 5.4
+121124454 - 0.0
+121066981 - 2.5
+122082134 - 0.0
+123141541 - 6.9
+121159750 - 2.5
+120069384 -
+122149740 Daniel manhã - 13923 1.0
+123158417 Daniel manhã - 13923 6.0
+122075975 Daniel manhã - 13923 0.5
+123504391 Daniel manhã - 13923 0.0
+123425115 Daniel manhã - 13923 3.7
+123064074 Daniel manhã - 13923 7.3
+121050752 Daniel manhã - 13923 0.7
+123206341 Daniel manhã - 13923
+123289593 Daniel manhã - 13923 9.5
+123511136 Daniel manhã - 13923 2.5
+123047909 Daniel manhã - 13923 1.9
+123058081 Daniel manhã - 13923 1.7
+123465181 Daniel manhã - 13923
+120095903 Daniel manhã - 13923 0.3
+123116952 Daniel manhã - 13923 3.3
+120055709 Daniel manhã - 13923 3.3
+121077584 Daniel manhã - 13923 6.0
+123255510 Daniel manhã - 13923 2.5
+123103153 Daniel manhã - 13923 3.7
+123443731 Daniel manhã - 13923 3.8
+123232635 Daniel manhã - 13923 3.5
+123465076 Daniel manhã - 13923 6.0
+121070671 Daniel manhã - 13923
+120201716 Daniel manhã - 13923 0.5
+123261587 Daniel manhã - 13923 7.5
+123135655 Daniel manhã - 13923 1.8
+123328216 Daniel manhã - 13923 2.3
+123481098 Daniel manhã - 13923 3.5
+119137750 Daniel manhã - 13923
+123182775 Daniel manhã - 13923 2.1
+123387202 Daniel manhã - 13923 6.8
+122081049 Daniel manhã - 13923 4.4
+123184214 Daniel manhã - 13923 5.5
+123289488 Daniel manhã - 13923 0.7
+123381581 Daniel manhã - 13923 2.5
+123167369 Daniel manhã - 13923 4.9
+123143543 Daniel manhã - 13923 5.1
+123165707 Daniel manhã - 13923 9.0
+121173623 Daniel manhã - 13923 2.7
+123188179 Daniel manhã - 13923 7.7
+123452861 Daniel manhã - 13923 1.3
+123051893 Daniel manhã - 13923 3.3
+123507828 Daniel manhã - 13923 6.2
+123516097 Daniel manhã - 13923 3.8
+123146753 Daniel manhã - 13923 6.0
+123514655 Daniel manhã - 13923 2.9
+123298681 Daniel manhã - 13923 3.3
+123439889 Daniel manhã - 13923 3.0
+123086131 Daniel manhã - 13923 3.7
+123287151 Daniel manhã - 13923 1.5
+123128103 Daniel manhã - 13923 2.0
+123592564 Daniel manhã - 13923
+123025216 Daniel manhã - 13923 1.5
+121134140 Daniel manhã - 13923 2.2
+123129109 Daniel manhã - 13923 4.7
+123172005 Daniel manhã - 13923 9.3
+123228270 Daniel manhã - 13923 3.2
+123288157 Daniel manhã - 13923 6.5
+123176677 Daniel manhã - 13923
+123193687 Daniel manhã - 13923 5.5
+123191596 Daniel manhã - 13923 4.0
+122065409 Daniel manhã - 13923 5.2
+123378279 Daniel manhã - 13923 0.7
+123117623 Daniel manhã - 13923 7.5
+123157411 Daniel manhã - 13923 3.5
+123281074 Daniel manhã - 13923 1.5
+122118252 Daniel manhã - 13923 5.2
+123088565 Daniel manhã - 13923
+123131423 Daniel manhã - 13923 1.8
+119104846 Daniel manhã - 13923 0.0
+122119981 Daniel manhã - 13923 3.2
+123447913 Daniel manhã - 13923 5.5
+123093413 Daniel manhã - 13923 9.0
+123149858 Daniel manhã - 13923 3.0
+123126208 Daniel manhã - 13923 3.4
+123688022 Daniel manhã - 13923 6.1
+123492138 Daniel manhã - 13923 4.7
+123343965 Daniel manhã - 13923
+123170126 Daniel manhã - 13923 4.9
+123275201 Daniel manhã - 13923 2.8
+123606339 Daniel manhã - 13923 3.5
+123199188 Daniel manhã - 13923 4.4
+123131318 Daniel manhã - 13923 2.0
+123137534 Daniel manhã - 13923 7.3
+123219556 Daniel manhã - 13923 5.7
+123327993 Daniel manhã - 13923 7.8
+123170891 Daniel manhã - 13923 8.7
+123152720 Daniel manhã - 13923 5.3
+120144346 Daniel manhã - 13923 3.3
+120158719 Daniel manhã - 13923
+123219441 Daniel manhã - 13923 2.0
+121040082 Daniel tarde - 13929
+119135588 Daniel tarde - 13929 1.0
+122063326 Daniel tarde - 13929
+119164927 Daniel tarde - 13929 4.4
+123159413 Daniel tarde - 13929 2.6
+122042451 Daniel tarde - 13929 2.2
+118171507 Daniel tarde - 13929 5.2
+122071654 Daniel tarde - 13929 1.0
+121063797 Daniel tarde - 13929 4.4
+123449672 Daniel tarde - 13929 4.7
+122065904 Daniel tarde - 13929 2.7
+123165595 Daniel tarde - 13929 0.8
+123091209 Daniel tarde - 13929 3.7
+122145568 Daniel tarde - 13929 1.3
+122078981 Daniel tarde - 13929 4.2
+121049523 Daniel tarde - 13929 4.4
+120130355 Daniel tarde - 13929
+122041617 Daniel tarde - 13929
+123386206 Daniel tarde - 13929 3.5
+117209802 Daniel tarde - 13929
+123182440 Daniel tarde - 13929 7.0
+120038333 Daniel tarde - 13929
+123042268 Daniel tarde - 13929 3.0
+123305292 Daniel tarde - 13929 1.8
+120156563 Daniel tarde - 13929 2.8
+123491027 Daniel tarde - 13929 4.2
+122036206 Daniel tarde - 13929 1.6
+122049762 Daniel tarde - 13929 3.2
+123045012 Daniel tarde - 13929 8.0
+123104141 Daniel tarde - 13929 5.5
+121046096 Daniel tarde - 13929
+122055543 Daniel tarde - 13929 4.0
+122126124 Daniel tarde - 13929 0.8
+115085375 Daniel tarde - 13929 4.5
+122082930 Daniel tarde - 13929 2.3
+122042710 Daniel tarde - 13929 1.8
+119039601 Daniel tarde - 13929 1.2
+121152805 Daniel tarde - 13929
+123445822 Daniel tarde - 13929 3.2
+123440547 Daniel tarde - 13929 6.5
+122059725 Daniel tarde - 13929 1.0
+123423993 Daniel tarde - 13929 3.5
+120065738 Daniel tarde - 13929 0.0
+122069576 Daniel tarde - 13929 2.3
+123330962 Daniel tarde - 13929 5.0
+122046065 Daniel tarde - 13929 5.5
+121148911 Daniel tarde - 13929 0.8
+123150956 Daniel tarde - 13929 2.8
+121036790 Daniel tarde - 13929 1.0
+121055778 Daniel tarde - 13929 5.0
+123053772 Daniel tarde - 13929 3.3
+118024881 Daniel tarde - 13929 1.3
+122071989 Daniel tarde - 13929 2.8
+122076400 Daniel tarde - 13929 1.5
+123490916 Daniel tarde - 13929 4.8
+121124585 Daniel tarde - 13929 1.2
+123046903 Daniel tarde - 13929 4.2
+123445385 Daniel tarde - 13929 8.0
+121156142 Daniel tarde - 13929
+122128841 Daniel tarde - 13929 2.0
+121124438 Daniel tarde - 13929 5.0
+123156855 Daniel tarde - 13929 4.2
+122106124 Daniel tarde - 13929
+122093583 Daniel tarde - 13929
+122147714 Daniel tarde - 13929
+122126360 Daniel tarde - 13929
+121052047 Daniel tarde - 13929 5.5
+121098661 Daniel tarde - 13929 4.7
+122063415 Daniel tarde - 13929 3.5
+122058591 Daniel tarde - 13929 3.2
+120183219 Daniel tarde - 13929 0.0
+120038511 Daniel tarde - 13929
+121132279 Daniel tarde - 13929
+122057529 Daniel tarde - 13929 2.0
+119148727 Daniel tarde - 13929
+122069534 Daniel tarde - 13929
+123288709 Daniel tarde - 13929 3.3
+123454627 Daniel tarde - 13929
+122119169 Daniel tarde - 13929
+122034149 Daniel tarde - 13929
+120101754 Daniel tarde - 13929 1.8
+120032141 Daniel tarde - 13929 2.8
+123395124 Pedro 13925 3.5
+123139560 Pedro 13925 4.3
+122130220 Pedro 13925 3.8
+121062482 Pedro 13925 3.6
+121050671 Pedro 13925 2.0
+122081073 Pedro 13925
+123672445 Pedro 13925 4.3
+123199510 Pedro 13925 5.3
+121054984 Pedro 13925
+123394356 Pedro 13925 6.3
+120063702 Pedro 13925 4.5
+122045409 Pedro 13925 1.0
+122030454 Pedro 13925
+123168365 Pedro 13925 3.7
+123488210 Pedro 13925 2.5
+121173487 Pedro 13925
+123246804 Pedro 13925 3.3
+120102742 Pedro 13925 3.5
+123074702 Pedro 13925 5.0
+122038981 Pedro 13925 3.3
+122093745 Pedro 13925 1.3
+122054589 Pedro 13925 0.0
+123023442 Pedro 13925 1.0
+123198857 Pedro 13925 2.8
+122143778 Pedro 13925 2.5
+123093528 Pedro 13925
+123144206 Pedro 13925 4.4
+121124959 Pedro 13925 3.5
+120056195 Pedro 13925 5.4
+123208987 Pedro 13925 2.0
+121148898 Pedro 13925 0.5
+121098734 Pedro 13925
+123260256 Pedro 13925 5.0
+123156172 Pedro 13925 2.0
+122136802 Pedro 13925 1.5
+123620480 Pedro 13925 2.0
+122074953 Pedro 13925 5.9
+123175095 Pedro 13925 0.5
+123142775 Pedro 13925 0.0
+119155596 Pedro 13925
+121170390 Pedro 13925 0.7
+122054987 Pedro 13925 4.1
+122044623 Pedro 13925 1.5
+123442086 Pedro 13925 1.8
+119019889 Pedro 13925
+121131338 Pedro 13925 2.6
+122121750 Pedro 13925 1.7
+123188501 Pedro 13925 0.0
+123461666 Pedro 13925 1.8
+122128582 Pedro 13925 1.3
+121080854 Pedro 13925 0.0
+123365145 Pedro 13925
+121071180 Pedro 13925 0.0
+123508264 Pedro 13925 1.0
+122055674 Pedro 13925 2.9
+123241375 Pedro 13925 5.0
+121132059 Pedro 13925 1.3
+123141541 Pedro 13925
+122068805 Pedro 13925
+121079895 Pedro 13925 2.6
+123579524 Pedro 13925
+122046081 Pedro 13925 1.0
+120059185 Pedro 13925 3.0
+123432837 Pedro 13925 3.2
+123708872 Pedro 13925
+121147787 Pedro 13925 5.8
+120042421 Pedro 13925
+120023087 Pedro 13925
+121122290 Pedro 13925 2.2
+121037796 Pedro 13925 0.8
+123680626 Semi presencial manhã 13926 0.9
+123713136 Semi presencial manhã 13926 5.2
+122044990 Semi presencial manhã 13926 2.8
+116029110 Semi presencial manhã 13926 4.8
+121142923 Semi presencial manhã 13926 0.5
+123191261 Semi presencial manhã 13926 1.2
+120022895 Semi presencial manhã 13926 2.5
+122060548 Semi presencial manhã 13926 2.2
+121144959 Semi presencial manhã 13926 2.5
+121036465 Semi presencial manhã 13926 3.5
+122046112 Semi presencial manhã 13926 2.0
+119179207 Semi presencial manhã 13926
+119060092 Semi presencial manhã 13926
+121050728 Semi presencial manhã 13926 2.0
+120166487 Semi presencial manhã 13926 1.2
+122048407 Semi presencial manhã 13926 5.4
+121135502 Semi presencial manhã 13926 1.2
+123420018 Semi presencial manhã 13926 0.8
+121062220 Semi presencial manhã 13926
+123181672 Semi presencial manhã 13926 2.6
+123128323 Semi presencial manhã 13926 4.7
+120063281 Semi presencial manhã 13926
+123273542 Semi presencial manhã 13926 6.9
+122052317 Semi presencial manhã 13926 5.5
+121076481 Semi presencial manhã 13926 2.5
+122138668 Semi presencial manhã 13926 0.7
+122046950 Semi presencial manhã 13926 3.8
+123598968 Semi presencial manhã 13926 5.0
+123134659 Semi presencial manhã 13926 2.8
+123248791 Semi presencial manhã 13926 2.5
+122130432 Semi presencial manhã 13926 1.3
+122066405 Semi presencial manhã 13926 1.7
+122127560 Semi presencial manhã 13926 4.5
+121071009 Semi presencial manhã 13926
+123265442 Semi presencial manhã 13926 4.8
+121056350 Semi presencial manhã 13926
+120146550 Semi presencial manhã 13926
+123312061 Semi presencial manhã 13926 5.8
+117122636 Semi presencial manhã 13926
+123381036 Semi presencial manhã 13926 3.2
+122167942 Semi presencial manhã 13926 3.2
+122136048 Semi presencial manhã 13926
+119037201 Semi presencial manhã 13926 3.0
+122120592 Semi presencial manhã 13926 2.0
+123360519 Semi presencial manhã 13926 3.7
+102074585 Semi presencial manhã 13926
+122031882 Semi presencial manhã 13926 4.5
+121128204 Semi presencial manhã 13926
+122070129 Semi presencial manhã 13926 0.5
+121086339 Semi presencial manhã 13926
+121150918 Semi presencial manhã 13926 5.7
+122128794 Semi presencial manhã 13926 2.2
+122089869 Semi presencial manhã 13926 5.0
+122069592 Semi presencial manhã 13926 2.9
+123225573 Semi presencial manhã 13926 8.5
+122119389 Semi presencial manhã 13926 2.3
+123696902 Semi presencial manhã 13926 1.5
+123057750 Semi presencial manhã 13926 2.4
+121042246 Semi presencial manhã 13926 6.3
+120026459 Semi presencial manhã 13926 3.7
+123257839 Semi presencial manhã 13926 2.0
+121085969 Semi presencial manhã 13926
+123706537 Semi presencial manhã 13926 4.5
+123224674 Semi presencial manhã 13926 8.2
+122157379 Semi presencial manhã 13926 1.3
+121065820 Semi presencial manhã 13926 0.9
+122069209 Semi presencial manhã 13926 5.0
+121170308 Semi presencial manhã 13926 2.8
+121037241 Semi presencial manhã 13926 1.0
+123239687 Semi presencial manhã 13926 7.8
+118113884 Semi presencial manhã 13926
+117233534 Semi presencial manhã 13926
+120122734 Semi presencial manhã 13926
+122045556 Semi presencial manhã 13926 4.3
+119090487 Semi presencial manhã 13926
+122072511 Semi presencial manhã 13926 1.8
+121174394 Semi presencial manhã 13926 4.3
+121091172 Semi presencial manhã 13926 3.8
+121096334 Semi presencial manhã 13926
+123093196 Semi presencial manhã 13926 3.7
+123101614 Semi presencial manhã 13926 0.8
+119037374 Semi presencial manhã 13926
+122081366 Semi presencial manhã 13926 7.0
+123053552 Semi presencial manhã 13926 5.3
+123713843 Semi presencial manhã 13926 0.7
+119135790 Semi presencial manhã 13926
+122129805 Semi presencial manhã 13926 5.2
+119035631 Semi presencial manhã 13926
+122081031 Semi presencial manhã 13926 1.5
+119020296 Semi presencial manhã 13926 0.5
+122089233 Semi presencial manhã 13926 6.0
+116016604 Semi presencial manhã 13926 6.5
+123507933 Semi presencial manhã 13926
+122090446 Semi presencial manhã 13926 2.3
+122073347 Semi presencial manhã 13926 9.0
+122059393 Semi presencial manhã 13926 8.5
+120013870 Semi presencial manhã 13926
+121056740 Semi presencial manhã 13926 4.0
+121169836 Semi presencial manhã 13926
+122138684 Semi presencial manhã 13926 0.8
+121140248 Semi presencial manhã 13926 0.0
+122177125 Semi presencial manhã 13926 6.7
+121051708 Semi presencial manhã 13926
+122052472 Semi presencial manhã 13926 2.8
+123210308 Semi presencial manhã 13926 3.7
+122177159 Semi presencial manhã 13926 4.8
+122062613 Semi presencial manhã 13926 1.9
+122071175 Semi presencial manhã 13926 1.5
+120053715 Semi presencial manhã 13926 2.0
+123671766 Semi presencial manhã 13926 3.3
+123311073 Semi presencial manhã 13926 3.2
+123045355 Semi presencial manhã 13926 7.8
+118048089 Semi presencial manhã 13926 0.0
+121045587 Semi presencial manhã 13926 2.8
+121062911 Semi presencial manhã 13926 1.2
+121049010 Semi presencial manhã 13926 3.0
+123370433 Semi presencial manhã 13926 5.2
+121091075 Semi presencial manhã 13926 2.5
+123104808 Semi presencial manhã 13926
+121138576 Semi presencial manhã 13926 4.9
+122059369 Semi presencial manhã 13926
+123419342 Semi presencial manhã 13926 3.2
+122045360 Semi presencial manhã 13926 4.5
+121087571 Semi presencial manhã 13926
+121050964 Semi presencial manhã 13926
+122146700 Semi presencial manhã 13926 1.0
+121048632 Semi presencial manhã 13926 1.4
+123676936 Semi presencial manhã 13926 0.7
+123570156 Semi presencial manhã 13926 0.2
+121094976 Semi presencial manhã 13926 3.0
+123177770 Semi presencial manhã 13926 6.8
+123103373 Semi presencial manhã 13926 3.2
+122080661 Semi presencial manhã 13926 3.3
+122138359 Semi presencial manhã 13926
+121071821 Semi presencial manhã 13926 7.2
+122139410 Semi presencial manhã 13926 6.0
+122058622 Semi presencial manhã 13926 4.8
+121036261 Semi presencial manhã 13926 0.0
+122133236 Semi presencial manhã 13926 1.0
+120033977 Semi presencial manhã 13926 8.4
+119151762 Semi presencial manhã 13926
+111219427 Semi presencial manhã 13926
+122172620 Semi presencial manhã 13926 4.0
+122123419 Semi presencial manhã 13926 3.7
+121077657 Semi presencial manhã 13926 6.3
+121039722 Semi presencial manhã 13926
+122166085 Semi presencial manhã 13926
+123467272 Semi presencial manhã 13926 3.0
+122105788 Semi presencial manhã 13926 1.6
+121086745 semi presencial tarde 13933
+118117147 semi presencial tarde 13933 1.0
+121100133 semi presencial tarde 13933
+122130246 semi presencial tarde 13933 5.3
+123726799 semi presencial tarde 13933 4.3
+121092380 semi presencial tarde 13933 1.0
+123453744 semi presencial tarde 13933 4.8
+121042385 semi presencial tarde 13933 5.5
+121159336 semi presencial tarde 13933
+120168023 semi presencial tarde 13933
+123050342 semi presencial tarde 13933 3.0
+123225468 semi presencial tarde 13933 2.0
+120057418 semi presencial tarde 13933
+119130986 semi presencial tarde 13933
+119040026 semi presencial tarde 13933 3.8
+123206456 semi presencial tarde 13933 1.5
+121140858 semi presencial tarde 13933
+120030628 semi presencial tarde 13933 2.0
+123165375 semi presencial tarde 13933 0.8
+123169688 semi presencial tarde 13933 3.3
+120053579 semi presencial tarde 13933 2.7
+121129543 semi presencial tarde 13933 7.5
+121145078 semi presencial tarde 13933
+122133406 semi presencial tarde 13933 3.9
+123052459 semi presencial tarde 13933 7.0
+120159171 semi presencial tarde 13933
+120095995 semi presencial tarde 13933 8.8
+121131176 semi presencial tarde 13933 6.3
+121180109 semi presencial tarde 13933 3.8
+122143817 semi presencial tarde 13933 3.3
+122086471 semi presencial tarde 13933
+120056357 semi presencial tarde 13933
+122178058 semi presencial tarde 13933
+121160133 semi presencial tarde 13933 2.4
+119155520 semi presencial tarde 13933 0.6
+121058394 semi presencial tarde 13933 6.6
+122034830 semi presencial tarde 13933 2.7
+122043499 semi presencial tarde 13933 2.6
+123546652 semi presencial tarde 13933 6.0
+121051295 semi presencial tarde 13933 1.5
+123150401 semi presencial tarde 13933 8.1
+122154884 semi presencial tarde 13933 0.2
+121125141 semi presencial tarde 13933 0.5
+122066510 semi presencial tarde 13933 4.5
+121070370 semi presencial tarde 13933
+121063014 semi presencial tarde 13933
+121120599 semi presencial tarde 13933 1.5
+119104951 semi presencial tarde 13933 3.8
+122042948 semi presencial tarde 13933
+117196253 semi presencial tarde 13933 0.7
+123458582 semi presencial tarde 13933 1.8
+121135489 semi presencial tarde 13933
+121058483 semi presencial tarde 13933 6.5
+117096584 semi presencial tarde 13933
+116161946 semi presencial tarde 13933
+121047521 semi presencial tarde 13933 1.3
+122042859 semi presencial tarde 13933 3.3
+123371439 semi presencial tarde 13933 4.9
+106087899 semi presencial tarde 13933
+117251469 semi presencial tarde 13933 0.2
+123281731 semi presencial tarde 13933
+118198698 semi presencial tarde 13933
+123171229 semi presencial tarde 13933 2.8
+121128995 semi presencial tarde 13933 5.2
+121141333 semi presencial tarde 13933 1.0
+122081188 semi presencial tarde 13933 2.0
+122077341 semi presencial tarde 13933 2.0
+123087674 semi presencial tarde 13933 4.8
+122080344 semi presencial tarde 13933
+111299841 semi presencial tarde 13933
+122115385 semi presencial tarde 13933 2.3
+123703929 semi presencial tarde 13933 2.3
+121072712 semi presencial tarde 13933
+122038208 semi presencial tarde 13933 2.9
+123100155 semi presencial tarde 13933 3.8
+121142931 semi presencial tarde 13933 6.1
+115026274 semi presencial tarde 13933
+122055331 semi presencial tarde 13933 3.2
+121082717 semi presencial tarde 13933
+120188586 semi presencial tarde 13933
+123751354 semi presencial tarde 13933 1.5
+117030839 semi presencial tarde 13933
+122093818 semi presencial tarde 13933 1.5
