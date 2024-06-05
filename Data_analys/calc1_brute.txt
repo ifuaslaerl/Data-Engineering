@@ -1,0 +1,1214 @@
+DRE TURMA HORÁRIO SITUAÇÃO NOTA
+114126445 Bruno 15h-17h Inscrito FALTA
+119031726 Bruno 15h-17h Inscrito FALTA
+119163890 Bruno 15h-17h Inscrito FALTA
+119194419 Bruno 15h-17h Inscrito 2,9
+120013595 Bruno 15h-17h Inscrito FALTA
+120060720 Bruno 15h-17h Inscrito 3,6
+120080827 Bruno 15h-17h Inscrito 4,3
+120097086 Bruno 15h-17h Inscrito 6,4
+120101047 Bruno 15h-17h Inscrito 2,9
+120155347 Bruno 15h-17h Inscrito FALTA
+120162556 Bruno 15h-17h Inscrito FALTA
+120166835 Bruno 15h-17h Inscrito 8,6
+120171725 Bruno 15h-17h Inscrito FALTA
+120176416 Bruno 15h-17h Inscrito 5
+121048802 Bruno 15h-17h Inscrito FALTA
+121051300 Bruno 15h-17h Inscrito 4,3
+121059308 Bruno 15h-17h Inscrito 2,2
+121062979 Bruno 15h-17h Inscrito FALTA
+121068543 Bruno 15h-17h Inscrito 3,6
+121070184 Bruno 15h-17h Inscrito 4,3
+121071740 Bruno 15h-17h Inscrito FALTA
+121091017 Bruno 15h-17h Inscrito 4,3
+121092712 Bruno 15h-17h Inscrito 4,3
+121094942 Bruno 15h-17h Inscrito 2,2
+121099544 Bruno 15h-17h Inscrito FALTA
+121102923 Bruno 15h-17h Inscrito 7,9
+121103709 Bruno 15h-17h Inscrito FALTA
+121124349 Bruno 15h-17h Inscrito FALTA
+121124674 Bruno 15h-17h Inscrito FALTA
+121127949 Bruno 15h-17h Inscrito 3,6
+121144454 Bruno 15h-17h Inscrito 3,6
+121144543 Bruno 15h-17h Inscrito 2,9
+121144925 Bruno 15h-17h Inscrito 2,9
+121151574 Bruno 15h-17h Inscrito FALTA
+121168254 Bruno 15h-17h Inscrito FALTA
+121169412 Bruno 15h-17h Inscrito FALTA
+121170845 Bruno 15h-17h Inscrito 5,8
+121171605 Bruno 15h-17h Inscrito 3,6
+121173877 Bruno 15h-17h Inscrito 2,9
+121183961 Bruno 15h-17h Inscrito FALTA
+121184145 Bruno 15h-17h Inscrito FALTA
+121185670 Bruno 15h-17h Inscrito FALTA
+121187753 Bruno 15h-17h Inscrito 3,6
+122032082 Bruno 15h-17h Inscrito 4,3
+122034602 Bruno 15h-17h Inscrito 6,5
+122036044 Bruno 15h-17h Inscrito 5
+122036167 Bruno 15h-17h Inscrito FALTA
+122036426 Bruno 15h-17h Inscrito 2,2
+122042150 Bruno 15h-17h Inscrito 2,2
+122043740 Bruno 15h-17h Inscrito FALTA
+122048871 Bruno 15h-17h Inscrito FALTA
+122051418 Bruno 15h-17h Inscrito 6,5
+122061243 Bruno 15h-17h Inscrito 5
+122062841 Bruno 15h-17h Inscrito FALTA
+122063025 Bruno 15h-17h Inscrito 5,8
+122071353 Bruno 15h-17h Inscrito FALTA
+122075577 Bruno 15h-17h Inscrito 5,8
+122077325 Bruno 15h-17h Inscrito FALTA
+122087590 Bruno 15h-17h Inscrito 4,3
+122088130 Bruno 15h-17h Inscrito FALTA
+122090284 Bruno 15h-17h Inscrito 5,8
+122091141 Bruno 15h-17h Inscrito 5,7
+122091874 Bruno 15h-17h Inscrito FALTA
+122096612 Bruno 15h-17h Inscrito FALTA
+122096688 Bruno 15h-17h Inscrito FALTA
+122102104 Bruno 15h-17h Inscrito 3,6
+122102609 Bruno 15h-17h Inscrito 2,2
+122115199 Bruno 15h-17h Inscrito 5,8
+122116153 Bruno 15h-17h Inscrito 6,5
+122126564 Bruno 15h-17h Inscrito FALTA
+122128061 Bruno 15h-17h Inscrito 4,3
+122130042 Bruno 15h-17h Inscrito FALTA
+122133545 Bruno 15h-17h Inscrito 3,6
+122135505 Bruno 15h-17h Inscrito FALTA
+122135628 Bruno 15h-17h Inscrito FALTA
+122138692 Bruno 15h-17h Inscrito 5,8
+122142243 Bruno 15h-17h Inscrito 5,8
+122143702 Bruno 15h-17h Inscrito 2,2
+122147413 Bruno 15h-17h Inscrito FALTA
+122147992 Bruno 15h-17h Inscrito 5
+122150424 Bruno 15h-17h Inscrito FALTA
+122150660 Bruno 15h-17h Inscrito FALTA
+122154517 Bruno 15h-17h Inscrito FALTA
+122155961 Bruno 15h-17h Inscrito 4,3
+122156179 Bruno 15h-17h Inscrito FALTA
+122157036 Bruno 15h-17h Inscrito 2,9
+122157191 Bruno 15h-17h Inscrito 3,6
+122168346 Bruno 15h-17h Inscrito 4,3
+122168532 Bruno 15h-17h Inscrito FALTA
+122168786 Bruno 15h-17h Inscrito 4,3
+122169033 Bruno 15h-17h Inscrito 2,2
+122169936 Bruno 15h-17h Inscrito FALTA
+122170296 Bruno 15h-17h Inscrito 1,5
+122171894 Bruno 15h-17h Inscrito 5
+122177256 Bruno 15h-17h Inscrito 2,2
+122177955 Bruno 15h-17h Inscrito 2,2
+122178341 Bruno 15h-17h Inscrito 1,5
+122179038 Bruno 15h-17h Inscrito 2,2
+122179567 Bruno 15h-17h Inscrito 5
+122183493 Bruno 15h-17h Inscrito 2,2
+123046791 Bruno 15h-17h Inscrito 4,3
+123092205 Bruno 15h-17h Inscrito 4,3
+123107995 Bruno 15h-17h Inscrito FALTA
+123108763 Bruno 15h-17h Inscrito FALTA
+123115613 Bruno 15h-17h Inscrito FALTA
+123123103 Bruno 15h-17h Inscrito 7,2
+123168250 Bruno 15h-17h Inscrito 6,5
+123207559 Bruno 15h-17h Inscrito 2,2
+123214637 Bruno 15h-17h Inscrito 2,9
+123225125 Bruno 15h-17h Inscrito FALTA
+123233194 Bruno 15h-17h Inscrito FALTA
+123242290 Bruno 15h-17h Inscrito 5
+123265337 Bruno 15h-17h Inscrito 7,2
+123269064 Bruno 15h-17h Inscrito 7,9
+123269195 Bruno 15h-17h Inscrito FALTA
+123273982 Bruno 15h-17h Inscrito FALTA
+123329759 Bruno 15h-17h Inscrito 7,9
+123330302 Bruno 15h-17h Inscrito 6,5
+123357875 Bruno 15h-17h Inscrito 1,5
+123359306 Bruno 15h-17h Inscrito 5,8
+123370548 Bruno 15h-17h Inscrito 0,8
+123380145 Bruno 15h-17h Inscrito 2,9
+123381361 Bruno 15h-17h Inscrito 8,6
+123383452 Bruno 15h-17h Inscrito FALTA
+123416792 Bruno 15h-17h Inscrito 5,8
+123421006 Bruno 15h-17h Inscrito 2,9
+123422450 Bruno 15h-17h Inscrito 7,2
+123434708 Bruno 15h-17h Inscrito 2,9
+123440987 Bruno 15h-17h Inscrito 7,2
+123446705 Bruno 15h-17h Inscrito 8,6
+123455940 Bruno 15h-17h Inscrito 3,6
+123466399 Bruno 15h-17h Inscrito FALTA
+123468480 Bruno 15h-17h Inscrito 3,6
+123500070 Bruno 15h-17h Inscrito 5
+123504058 Bruno 15h-17h Inscrito 6,5
+123508921 Bruno 15h-17h Inscrito 8,6
+123563426 Bruno 15h-17h Inscrito 5,8
+123580850 Bruno 15h-17h Inscrito 5
+123582624 Bruno 15h-17h Inscrito FALTA
+123585169 Bruno 15h-17h Inscrito 5,8
+123588696 Bruno 15h-17h Inscrito FALTA
+123594778 Bruno 15h-17h Inscrito 2,2
+123600618 Bruno 15h-17h Inscrito 7,2
+123602042 Bruno 15h-17h Inscrito 5
+123625309 Bruno 15h-17h Inscrito 1,5
+123629638 Bruno 15h-17h Inscrito 5
+123630841 Bruno 15h-17h Inscrito FALTA
+123634447 Bruno 15h-17h Inscrito 3,6
+123640163 Bruno 15h-17h Inscrito FALTA
+123650590 Bruno 15h-17h Inscrito 6,5
+123658093 Bruno 15h-17h Inscrito 8,6
+123661834 Bruno 15h-17h Inscrito FALTA
+123671847 Bruno 15h-17h Inscrito 7,2
+123672194 Bruno 15h-17h Inscrito FALTA
+123672699 Bruno 15h-17h Inscrito 5
+123672788 Bruno 15h-17h Inscrito 8,6
+123677021 Bruno 15h-17h Inscrito FALTA
+123677746 Bruno 15h-17h Inscrito 6,5
+123679471 Bruno 15h-17h Inscrito 6,5
+123680286 Bruno 15h-17h Inscrito 2,2
+123680838 Bruno 15h-17h Inscrito 5
+123680896 Bruno 15h-17h Inscrito FALTA
+123681630 Bruno 15h-17h Inscrito FALTA
+123682767 Bruno 15h-17h Inscrito 3,6
+123682783 Bruno 15h-17h Inscrito 6,5
+123688399 Bruno 15h-17h Inscrito 6,5
+123688640 Bruno 15h-17h Inscrito 9,3
+123689028 Bruno 15h-17h Inscrito 4,3
+123689078 Bruno 15h-17h Inscrito 3,6
+123689400 Bruno 15h-17h Inscrito 5,8
+123689662 Bruno 15h-17h Inscrito 4,3
+123689696 Bruno 15h-17h Inscrito 1,5
+123690401 Bruno 15h-17h Inscrito FALTA
+123690477 Bruno 15h-17h Inscrito 5,8
+123690508 Bruno 15h-17h Inscrito FALTA
+123692233 Bruno 15h-17h Inscrito FALTA
+123692712 Bruno 15h-17h Inscrito 2,9
+123692796 Bruno 15h-17h Inscrito 2,9
+123693849 Bruno 15h-17h Inscrito FALTA
+123695281 Bruno 15h-17h Inscrito 7,9
+123695443 Bruno 15h-17h Inscrito FALTA
+123695613 Bruno 15h-17h Inscrito 5,8
+123697380 Bruno 15h-17h Inscrito FALTA
+123697461 Bruno 15h-17h Inscrito 2,2
+123697869 Bruno 15h-17h Inscrito FALTA
+123698344 Bruno 15h-17h Inscrito FALTA
+123698425 Bruno 15h-17h Inscrito 9,3
+123698556 Bruno 15h-17h Inscrito 2,9
+123699447 Bruno 15h-17h Inscrito 2,2
+123702614 Bruno 15h-17h Inscrito 7,2
+123704284 Bruno 15h-17h Inscrito 2,2
+123704519 Bruno 15h-17h Inscrito 2,9
+123704721 Bruno 15h-17h Inscrito 1,5
+123704925 Bruno 15h-17h Inscrito 7,2
+123705400 Bruno 15h-17h Inscrito 2,2
+123705515 Bruno 15h-17h Inscrito FALTA
+123705573 Bruno 15h-17h Inscrito 1,5
+123705719 Bruno 15h-17h Inscrito 4,3
+123705769 Bruno 15h-17h Inscrito 2,9
+123705963 Bruno 15h-17h Inscrito FALTA
+123706367 Bruno 15h-17h Inscrito 4,3
+123707274 Bruno 15h-17h Inscrito FALTA
+123708254 Bruno 15h-17h Inscrito 7,2
+123708709 Bruno 15h-17h Inscrito 5,8
+123709496 Bruno 15h-17h Inscrito 1,5
+123709941 Bruno 15h-17h Inscrito FALTA
+123710798 Bruno 15h-17h Inscrito 0,8
+123713330 Bruno 15h-17h Inscrito 2,2
+123749179 Bruno 15h-17h Inscrito 2,2
+123750099 Bruno 15h-17h Inscrito 5
+123750112 Bruno 15h-17h Inscrito 2,9
+123750861 Bruno 15h-17h Inscrito 3,6
+123751100 Bruno 15h-17h Inscrito 1,5
+123751605 Bruno 15h-17h Inscrito 3,6
+123752431 Bruno 15h-17h Inscrito 4,3
+123753314 Bruno 15h-17h Inscrito 5
+123758720 Bruno 15h-17h Inscrito 7,9
+123759695 Bruno 15h-17h Inscrito 2,9
+119094245 Charles 10h-12h Inscrito 8,6
+120166584 Charles 10h-12h Inscrito 1,5
+122068635 Charles 10h-12h Inscrito
+122141352 Charles 10h-12h Inscrito 3,6
+122169871 Charles 10h-12h Inscrito
+123264771 Charles 10h-12h Inscrito
+123352697 Charles 10h-12h Inscrito 6,5
+123380690 Charles 10h-12h Inscrito 6,5
+123496425 Charles 10h-12h Inscrito 6,5
+123676952 Charles 10h-12h Inscrito 6,5
+123696106 Charles 10h-12h Inscrito 5
+123708767 Charles 10h-12h Inscrito FALTA
+123751257 Charles 10h-12h Sem Vaga 6,5
+123758178 Charles 10h-12h Inscrito 2,2
+123766707 Charles 10h-12h Inscrito 3,6
+124006118 Charles 10h-12h Inscrito FALTA
+124006930 Charles 10h-12h Inscrito FALTA
+124007350 Charles 10h-12h Inscrito 1,5
+124008712 Charles 10h-12h Inscrito 9,3
+124008788 Charles 10h-12h Inscrito 1,5
+124009069 Charles 10h-12h Inscrito 7,9
+124009506 Charles 10h-12h Inscrito 8,6
+124011723 Charles 10h-12h Inscrito 3,6
+124013301 Charles 10h-12h Inscrito 2,9
+124014381 Charles 10h-12h Inscrito 6,5
+124016545 Charles 10h-12h Inscrito 7,2
+124017494 Charles 10h-12h Inscrito 4,3
+124018767 Charles 10h-12h Inscrito 2,2
+124020756 Charles 10h-12h Inscrito 5,8
+124020764 Charles 10h-12h Inscrito 2,9
+124021215 Charles 10h-12h Inscrito 2,2
+124021257 Charles 10h-12h Inscrito 2,9
+124022059 Charles 10h-12h Inscrito 5
+124023500 Charles 10h-12h Inscrito 9,3
+124024043 Charles 10h-12h Inscrito 0
+124024433 Charles 10h-12h Inscrito 1,5
+124025146 Charles 10h-12h Inscrito 1,5
+124025366 Charles 10h-12h Inscrito 2,9
+124026493 Charles 10h-12h Inscrito 5
+124026891 Charles 10h-12h Inscrito 5,8
+124027342 Charles 10h-12h Inscrito 7,9
+124029069 Charles 10h-12h Inscrito 0,8
+124030604 Charles 10h-12h Inscrito 2,2
+124032062 Charles 10h-12h Inscrito 8,6
+124032389 Charles 10h-12h Inscrito 10
+124033864 Charles 10h-12h Inscrito 7,2
+124036919 Charles 10h-12h Inscrito 7,9
+124038092 Charles 10h-12h Inscrito 7,2
+124038149 Charles 10h-12h Inscrito FALTA
+124038301 Charles 10h-12h Inscrito FALTA
+124039658 Charles 10h-12h Inscrito 9,3
+124040358 Charles 10h-12h Inscrito 5,8
+124042114 Charles 10h-12h Inscrito 2,2
+124043437 Charles 10h-12h Inscrito 1,5
+124043534 Charles 10h-12h Inscrito 7,9
+124044166 Charles 10h-12h Inscrito 7,9
+124044310 Charles 10h-12h Inscrito 2,2
+124044881 Charles 10h-12h Inscrito 10
+124049815 Charles 10h-12h Inscrito FALTA
+124050248 Charles 10h-12h Inscrito 7,9
+124050450 Charles 10h-12h Inscrito 8,6
+124050599 Charles 10h-12h Inscrito 2,9
+124050688 Charles 10h-12h Inscrito 6,5
+124050777 Charles 10h-12h Inscrito 1,5
+124051414 Charles 10h-12h Inscrito 6,5
+124051668 Charles 10h-12h Inscrito FALTA
+124051707 Charles 10h-12h Inscrito 7,9
+124053115 Charles 10h-12h Inscrito 9,3
+124054030 Charles 10h-12h Inscrito FALTA
+124054250 Charles 10h-12h Inscrito 5
+124054365 Charles 10h-12h Inscrito 0
+124055183 Charles 10h-12h Inscrito 9,3
+124056105 Charles 10h-12h Inscrito 7,2
+124057494 Charles 10h-12h Inscrito 3,6
+124081312 Charles 10h-12h Inscrito FALTA
+124084815 Charles 10h-12h Inscrito 7,9
+124092533 Charles 10h-12h Inscrito 2,2
+124100514 Charles 10h-12h Inscrito 6,5
+124105653 Charles 10h-12h Inscrito 3,6
+124108075 Charles 10h-12h Inscrito 3,6
+124108635 Charles 10h-12h Inscrito 7,2
+124127061 Charles 10h-12h Inscrito 3,6
+124133321 Charles 10h-12h Inscrito 4,3
+124146138 Charles 10h-12h Inscrito 2,2
+124148457 Charles 10h-12h Inscrito 5,8
+124168041 Charles 10h-12h Inscrito 5,8
+124168821 Charles 10h-12h Inscrito 2,2
+124169550 Charles 10h-12h Inscrito 5
+124171921 Charles 10h-12h Inscrito 6,5
+124173478 Charles 10h-12h Inscrito FALTA
+124174929 Charles 10h-12h Inscrito 6,5
+124176214 Charles 10h-12h Inscrito FALTA
+124178957 Charles 10h-12h Inscrito 3,6
+124179204 Charles 10h-12h Inscrito 2,9
+124182451 Charles 10h-12h Inscrito 5
+124193062 Charles 10h-12h Inscrito 1,5
+124193949 Charles 10h-12h Inscrito 0,8
+124194050 Charles 10h-12h Inscrito 0,8
+124196824 Charles 10h-12h Inscrito 5,8
+124203087 Charles 10h-12h Inscrito 2,9
+124232492 Charles 10h-12h Inscrito FALTA
+124251179 Charles 10h-12h Inscrito 0,8
+122096515 (A) Charles 10h-12h Inscrito 5,8
+120081580 Gabriel 15h-17h Inscrito 3,6
+121053247 Gabriel 15h-17h Inscrito 4,3
+121072241 Gabriel 15h-17h Inscrito FALTA
+122037333 Gabriel 15h-17h Inscrito 3,6
+123134879 Gabriel 15h-17h Inscrito 6,5
+123396120 Gabriel 15h-17h Inscrito 5,8
+123503604 Gabriel 15h-17h Inscrito 5,8
+123512019 Gabriel 15h-17h Inscrito FALTA
+123674968 Gabriel 15h-17h Inscrito FALTA
+123695964 Gabriel 15h-17h Inscrito 2,2
+123704446 Gabriel 15h-17h Inscrito 2,2
+123708539 Gabriel 15h-17h Inscrito 5,8
+123713055 Gabriel 15h-17h Inscrito 2,9
+123749399 Gabriel 15h-17h Inscrito 4,3
+124008940 Gabriel 15h-17h Inscrito 7,9
+124012884 Gabriel 15h-17h Inscrito 3,6
+124013238 Gabriel 15h-17h Inscrito 7,9
+124013628 Gabriel 15h-17h Inscrito 4,3
+124014179 Gabriel 15h-17h Inscrito 6,5
+124014446 Gabriel 15h-17h Inscrito 2,2
+124015646 Gabriel 15h-17h Inscrito 9,3
+124016113 Gabriel 15h-17h Inscrito FALTA
+124017240 Gabriel 15h-17h Inscrito 8,6
+124017680 Gabriel 15h-17h Inscrito 4,3
+124018880 Gabriel 15h-17h Inscrito 8,6
+124021566 Gabriel 15h-17h Inscrito 2,2
+124022512 Gabriel 15h-17h Inscrito 9,3
+124022635 Gabriel 15h-17h Inscrito FALTA
+124025057 Gabriel 15h-17h Inscrito 2,9
+124025659 Gabriel 15h-17h Inscrito 8,6
+124028403 Gabriel 15h-17h Inscrito FALTA
+124029572 Gabriel 15h-17h Inscrito 5,8
+124031561 Gabriel 15h-17h Inscrito 7,2
+124032444 Gabriel 15h-17h Inscrito 0,8
+124032478 Gabriel 15h-17h Inscrito 7,2
+124033327 Gabriel 15h-17h Inscrito 6,5
+124035450 Gabriel 15h-17h Inscrito 7,9
+124036197 Gabriel 15h-17h Inscrito 5
+124037185 Gabriel 15h-17h Inscrito 2,9
+124038068 Gabriel 15h-17h Inscrito FALTA
+124038165 Gabriel 15h-17h Inscrito 9,3
+124038995 Gabriel 15h-17h Inscrito 1,5
+124039145 Gabriel 15h-17h Inscrito 1,5
+124039470 Gabriel 15h-17h Inscrito 7,9
+124039797 Gabriel 15h-17h Inscrito 0,8
+124040374 Gabriel 15h-17h Inscrito 9,3
+124043110 Gabriel 15h-17h Inscrito 2,9
+124043283 Gabriel 15h-17h Inscrito 4,3
+124045641 Gabriel 15h-17h Inscrito 6,5
+124046045 Gabriel 15h-17h Inscrito FALTA
+124046647 Gabriel 15h-17h Inscrito 7,2
+124046744 Gabriel 15h-17h Inscrito 9,3
+124047067 Gabriel 15h-17h Inscrito 10
+124047172 Gabriel 15h-17h Inscrito 7,9
+124048584 Gabriel 15h-17h Inscrito 8,6
+124048681 Gabriel 15h-17h Inscrito 9,3
+124051618 Gabriel 15h-17h Inscrito 2,2
+124052282 Gabriel 15h-17h Inscrito 6,5
+124054056 Gabriel 15h-17h Inscrito 9,3
+124054975 Gabriel 15h-17h Inscrito 8,6
+124055109 Gabriel 15h-17h Inscrito 7,9
+124055989 Gabriel 15h-17h Inscrito 2,2
+124057258 Gabriel 15h-17h Inscrito 9,3
+124079569 Gabriel 15h-17h Inscrito 1,5
+124080358 Gabriel 15h-17h Inscrito 3,6
+124085269 Gabriel 15h-17h Inscrito 5
+124089899 Gabriel 15h-17h Inscrito 2,2
+124093369 Gabriel 15h-17h Inscrito 5,8
+124094064 Gabriel 15h-17h Inscrito FALTA
+124102493 Gabriel 15h-17h Inscrito 5,8
+124103944 Gabriel 15h-17h Inscrito 4,3
+124139979 Gabriel 15h-17h Inscrito 3,6
+124152587 Gabriel 15h-17h Inscrito 3,6
+124181659 Gabriel 15h-17h Inscrito FALTA
+124189429 Gabriel 15h-17h Inscrito 2,2
+124189649 Gabriel 15h-17h Inscrito 5,8
+124196387 Gabriel 15h-17h Inscrito FALTA
+124201289 Gabriel 15h-17h Inscrito FALTA
+124201417 Gabriel 15h-17h Inscrito 3,6
+124203419 Gabriel 15h-17h Inscrito 0,8
+124214703 Gabriel 15h-17h Inscrito 3,6
+124231030 Gabriel 15h-17h Inscrito FALTA
+124231713 Gabriel 15h-17h Inscrito 2,2
+124233587 Gabriel 15h-17h Inscrito FALTA
+124239101 Gabriel 15h-17h Inscrito 1,5
+124243841 Gabriel 15h-17h Inscrito 2,2
+124244106 Gabriel 15h-17h Inscrito 2,9
+118044124 Juliana 15h-17h FALTA
+119145698 Juliana 15h-17h FALTA
+121121016 Juliana 15h-17h 5.8
+121167185 Juliana 15h-17h FALTA
+121179344 Juliana 15h-17h 0.8
+122044217 Juliana 15h-17h 3.6
+122058101 Juliana 15h-17h 9.3
+122068554 Juliana 15h-17h 7.9
+122091248 Juliana 15h-17h 8.6
+122101750 Juliana 15h-17h 2.9
+122170896 Juliana 15h-17h 1,5
+122183396 Juliana 15h-17h 5.0
+123168470 Juliana 15h-17h 4.3
+123257164 Juliana 15h-17h 6.5
+123274865 Juliana 15h-17h 3.6
+123344076 Juliana 15h-17h 3.6
+123356007 Juliana 15h-17h 2.9
+123371099 Juliana 15h-17h 2.9
+123441975 Juliana 15h-17h 8.6
+123460458 Juliana 15h-17h 4.3
+123492578 Juliana 15h-17h FALTA
+123503264 Juliana 15h-17h 5.8
+123646787 Juliana 15h-17h 7.2
+123650265 Juliana 15h-17h 2.9
+123662937 Juliana 15h-17h FALTA
+123673077 Juliana 15h-17h 1,5
+123680538 Juliana 15h-17h 5.0
+123691211 Juliana 15h-17h 3.6
+123695100 Juliana 15h-17h 6.5
+123699358 Juliana 15h-17h 8.6
+123703490 Juliana 15h-17h 2.9
+123706197 Juliana 15h-17h 1.5
+123710031 Juliana 15h-17h 5.8
+123730861 Juliana 15h-17h 3.6
+123753526 Juliana 15h-17h 2.9
+124005714 Juliana 15h-17h 2.2
+124008461 Juliana 15h-17h 3.6
+124008479 Juliana 15h-17h 2.2
+124011846 Juliana 15h-17h 7.2
+124012410 Juliana 15h-17h 9.3
+124012494 Juliana 15h-17h 7.9
+124015298 Juliana 15h-17h 7.9
+124015492 Juliana 15h-17h 3.6
+124015701 Juliana 15h-17h 2.9
+124016464 Juliana 15h-17h 7.9
+124019323 Juliana 15h-17h 9.3
+124021003 Juliana 15h-17h 7.9
+124021095 Juliana 15h-17h 8.6
+124023615 Juliana 15h-17h 9.3
+124026590 Juliana 15h-17h 9.3
+124026689 Juliana 15h-17h 8.6
+124027279 Juliana 15h-17h 9.3
+124029441 Juliana 15h-17h 9.3
+124029873 Juliana 15h-17h 8.6
+124031375 Juliana 15h-17h 8.6
+124032436 Juliana 15h-17h 7.9
+124032452 Juliana 15h-17h 9.3
+124032753 Juliana 15h-17h FALTA
+124033385 Juliana 15h-17h 5.0
+124034412 Juliana 15h-17h 9.3
+124038042 Juliana 15h-17h 7.2
+124038767 Juliana 15h-17h 8.6
+124039331 Juliana 15h-17h 7.2
+124040390 Juliana 15h-17h 5.8
+124041231 Juliana 15h-17h 5.0
+124042017 Juliana 15h-17h FALTA
+124042318 Juliana 15h-17h FALTA
+124042994 Juliana 15h-17h 8.6
+124044132 Juliana 15h-17h 9.3
+124044263 Juliana 15h-17h 9.3
+124049629 Juliana 15h-17h 8.6
+124051121 Juliana 15h-17h 6.5
+124051684 Juliana 15h-17h FALTA
+124052012 Juliana 15h-17h 9.3
+124054014 Juliana 15h-17h 8.6
+124055125 Juliana 15h-17h 8.6
+124055298 Juliana 15h-17h 8.6
+124056286 Juliana 15h-17h 7.9
+124057313 Juliana 15h-17h FALTA
+124057428 Juliana 15h-17h 7.9
+124085706 Juliana 15h-17h 6.5
+124091147 Juliana 15h-17h 2.9
+124093254 Juliana 15h-17h 2.2
+124096977 Juliana 15h-17h 6.5
+124098319 Juliana 15h-17h 2.9
+124141007 Juliana 15h-17h 2.9
+124145108 Juliana 15h-17h 6.5
+124145695 Juliana 15h-17h 0.8
+124157228 Juliana 15h-17h 5.0
+124168457 Juliana 15h-17h 7.2
+124179602 Juliana 15h-17h 2.9
+124189209 Juliana 15h-17h 4.3
+124191183 Juliana 15h-17h FALTA
+124191743 Juliana 15h-17h 6.5
+124192074 Juliana 15h-17h FALTA
+124198185 Juliana 15h-17h 1.5
+124198402 Juliana 15h-17h 7.9
+124200932 Juliana 15h-17h FALTA
+124204732 Juliana 15h-17h FALTA
+124212971 Juliana 15h-17h 5.0
+124230246 Juliana 15h-17h 5.0
+124230466 Juliana 15h-17h 1.5
+124232751 Juliana 15h-17h 2.2
+124238448 Juliana 15h-17h 7.2
+122087786 (A) Juliana 15h-17h 3,6
+123623917 Marcia 10h-12h Inscrito FALTA
+124006477 Marcia 10h-12h Inscrito FALTA
+124008186 Marcia 10h-12h Inscrito
+124011058 Marcia 10h-12h Inscrito 5.0
+124012062 Marcia 10h-12h Inscrito FALTA
+124017012 Marcia 10h-12h Inscrito FALTA
+124017428 Marcia 10h-12h Inscrito FALTA
+124019608 Marcia 10h-12h Inscrito FALTA
+124021045 Marcia 10h-12h Inscrito FALTA
+124021231 Marcia 10h-12h Inscrito 2.9
+124022619 Marcia 10h-12h Inscrito 5.8
+124023005 Marcia 10h-12h Inscrito 5.0
+124026215 Marcia 10h-12h Inscrito 5.8
+124027465 Marcia 10h-12h Inscrito FALTA
+124028364 Marcia 10h-12h Inscrito FALTA
+124030353 Marcia 10h-12h Inscrito 6.5
+124031820 Marcia 10h-12h Inscrito 3.6
+124032321 Marcia 10h-12h Inscrito 2,9
+124035044 Marcia 10h-12h Inscrito 5.0
+124037753 Marcia 10h-12h Inscrito 2.2
+124039234 Marcia 10h-12h Inscrito 6.5
+124040552 Marcia 10h-12h Inscrito FALTA
+124042546 Marcia 10h-12h Inscrito FALTA
+124043178 Marcia 10h-12h Inscrito 5.8
+124043518 Marcia 10h-12h Inscrito 8.6
+124043940 Marcia 10h-12h Inscrito 2.9
+124045552 Marcia 10h-12h Inscrito FALTA
+124046299 Marcia 10h-12h Inscrito FALTA
+124047211 Marcia 10h-12h Inscrito FALTA
+124048801 Marcia 10h-12h Inscrito FALTA
+124049776 Marcia 10h-12h Inscrito
+124053686 Marcia 10h-12h Inscrito 5.0
+124053759 Marcia 10h-12h Inscrito FALTA
+124054226 Marcia 10h-12h Inscrito 2.2
+124055060 Marcia 10h-12h Inscrito 3.6
+124056498 Marcia 10h-12h Inscrito 4.3
+124057460 Marcia 10h-12h Inscrito FALTA
+124057711 Marcia 10h-12h Inscrito 2.9
+124079501 Marcia 10h-12h Inscrito FALTA
+124080065 Marcia 10h-12h Inscrito 5.8
+124084019 Marcia 10h-12h Inscrito 2.9
+124092884 Marcia 10h-12h Inscrito FALTA
+124096317 Marcia 10h-12h Inscrito 4.3
+124097656 Marcia 10h-12h Inscrito FALTA
+124101390 Marcia 10h-12h Inscrito
+124101502 Marcia 10h-12h Inscrito FALTA
+124102053 Marcia 10h-12h Inscrito FALTA
+124104657 Marcia 10h-12h Inscrito
+124124403 Marcia 10h-12h Inscrito FALTA
+124133216 Marcia 10h-12h Inscrito FALTA
+124133703 Marcia 10h-12h Inscrito FALTA
+124135878 Marcia 10h-12h Inscrito 6.5
+124138402 Marcia 10h-12h Inscrito FALTA
+124138965 Marcia 10h-12h Inscrito
+124147011 Marcia 10h-12h Inscrito FALTA
+124153729 Marcia 10h-12h Inscrito FALTA
+124154644 Marcia 10h-12h Inscrito FALTA
+124155331 Marcia 10h-12h Inscrito 1.5
+124190852 Marcia 10h-12h Inscrito
+124194733 Marcia 10h-12h Inscrito
+124204180 Marcia 10h-12h Inscrito
+124214151 Marcia 10h-12h Inscrito
+124215482 Marcia 10h-12h Inscrito
+124234135 Marcia 10h-12h Inscrito
+124254923 Marcia 10h-12h Inscrito
+124255628 Marcia 10h-12h Inscrito
+119156055 Marianna 13h-15h Inscrito FALTA
+120153361 Marianna 13h-15h Inscrito FALTA
+121140002 Marianna 13h-15h Inscrito 2.2
+121140921 Marianna 13h-15h Inscrito FALTA
+121144925 Marianna 13h-15h Sem Vaga FALTA
+121147185 Marianna 13h-15h Inscrito 9.3
+121175031 Marianna 13h-15h Inscrito 1.5
+122040409 Marianna 13h-15h Inscrito 5.0
+122067299 Marianna 13h-15h Inscrito 7.2
+122089013 Marianna 13h-15h Sem Vaga FALTA
+122092731 Marianna 13h-15h Sem Vaga 1.5
+122095983 Marianna 13h-15h Sem Vaga 2.9
+122102023 Marianna 13h-15h Inscrito 5.0
+122102308 Marianna 13h-15h Inscrito 8.6
+122115602 Marianna 13h-15h Inscrito 6.5
+122115961 Marianna 13h-15h Inscrito 2.2
+122123249 Marianna 13h-15h Inscrito 2.9
+122126687 Marianna 13h-15h Inscrito 5.0
+122129520 Marianna 13h-15h Inscrito 3.6
+122134680 Marianna 13h-15h Sem Vaga 7.2
+122144279 Marianna 13h-15h Sem Vaga 7.2
+122147544 Marianna 13h-15h Sem Vaga 9.3
+122147926 Marianna 13h-15h Sem Vaga FALTA
+122178870 Marianna 13h-15h Sem Vaga 9.3
+123314827 Marianna 13h-15h Sem Vaga 5.0
+123561000 Marianna 13h-15h Sem Vaga FALTA
+123607432 Marianna 13h-15h Inscrito FALTA
+123626745 Marianna 13h-15h Inscrito 7.9
+123645464 Marianna 13h-15h Inscrito 2.9
+123672186 Marianna 13h-15h Inscrito 4.3
+123672584 Marianna 13h-15h Sem Vaga 8.6
+123675168 Marianna 13h-15h Inscrito 2.2
+123677699 Marianna 13h-15h Inscrito 5.8
+123680498 Marianna 13h-15h Sem Vaga 2.9
+123683080 Marianna 13h-15h Inscrito 1.5
+123688103 Marianna 13h-15h Sem Vaga FALTA
+123695867 Marianna 13h-15h Sem Vaga 3.6
+123704226 Marianna 13h-15h Inscrito 7.2
+123709446 Marianna 13h-15h Inscrito 2.2
+123712122 Marianna 13h-15h Inscrito 6.5
+123752554 Marianna 13h-15h Sem Vaga 7.2
+123753453 Marianna 13h-15h Inscrito 2.2
+123754433 Marianna 13h-15h Inscrito 4.3
+124006647 Marianna 13h-15h Inscrito 3.6
+124007423 Marianna 13h-15h Inscrito 1.5
+124007481 Marianna 13h-15h Inscrito 5.0
+124008152 Marianna 13h-15h Sem Vaga 1.5
+124009637 Marianna 13h-15h Inscrito 7.2
+124010662 Marianna 13h-15h Inscrito FALTA
+124010997 Marianna 13h-15h Inscrito 4.3
+124011943 Marianna 13h-15h Inscrito 3.6
+124011969 Marianna 13h-15h Inscrito 5.0
+124012185 Marianna 13h-15h Inscrito 9.3
+124012567 Marianna 13h-15h Inscrito 7.9
+124014454 Marianna 13h-15h Inscrito 9.3
+124015507 Marianna 13h-15h Inscrito 5.0
+124015515 Marianna 13h-15h Inscrito 8.6
+124015581 Marianna 13h-15h Inscrito 9.3
+124016082 Marianna 13h-15h Inscrito 1.5
+124016406 Marianna 13h-15h Inscrito 9.3
+124018482 Marianna 13h-15h Inscrito 5.8
+124018660 Marianna 13h-15h Inscrito FALTA
+124019048 Marianna 13h-15h Inscrito 5.0
+124019705 Marianna 13h-15h Inscrito 8.6
+124020081 Marianna 13h-15h Inscrito 2.2
+124020625 Marianna 13h-15h Inscrito 7.2
+124020748 Marianna 13h-15h Inscrito 3.6
+124022172 Marianna 13h-15h Inscrito 9.3
+124022342 Marianna 13h-15h Inscrito 6.5
+124023576 Marianna 13h-15h Inscrito 7.2
+124027512 Marianna 13h-15h Inscrito 7.2
+124028055 Marianna 13h-15h Inscrito 3.6
+124030785 Marianna 13h-15h Inscrito 7.2
+124031537 Marianna 13h-15h Inscrito 5.0
+124032949 Marianna 13h-15h Inscrito 6.5
+124033822 Marianna 13h-15h Inscrito 4.3
+124035581 Marianna 13h-15h Inscrito 2.2
+124035808 Marianna 13h-15h Inscrito 4.3
+124036503 Marianna 13h-15h Inscrito FALTA
+124040146 Marianna 13h-15h Inscrito 1.5
+124041223 Marianna 13h-15h Inscrito FALTA
+124042619 Marianna 13h-15h Inscrito 8.6
+124044726 Marianna 13h-15h Inscrito 3.6
+124045714 Marianna 13h-15h Inscrito 5.0
+124047863 Marianna 13h-15h Inscrito 0.0
+124049116 Marianna 13h-15h Inscrito 5.0
+124049289 Marianna 13h-15h Inscrito 8.6
+124050442 Marianna 13h-15h Inscrito 8.6
+124051391 Marianna 13h-15h Sem Vaga 3.6
+124051799 Marianna 13h-15h Inscrito 9.3
+124052630 Marianna 13h-15h Inscrito 8.6
+124052999 Marianna 13h-15h Inscrito 2.2
+124053050 Marianna 13h-15h Inscrito 8.6
+124053791 Marianna 13h-15h Inscrito 2.9
+124054543 Marianna 13h-15h Inscrito FALTA
+124056341 Marianna 13h-15h Inscrito 4.3
+124057101 Marianna 13h-15h Inscrito 3.6
+124057729 Marianna 13h-15h Inscrito 5.0
+124169982 Marianna 13h-15h Sem Vaga 5.0
+124173664 Marianna 13h-15h Sem Vaga 5.0
+124177626 Marianna 13h-15h Inscrito 2.9
+124225039 Marianna 13h-15h Sem Vaga 6.5
+121078954 Miguel C. 10h-12h Inscrito FALTA
+121094489 Miguel C. 10h-12h Inscrito 5.8
+121124569 Miguel C. 10h-12h Inscrito 4.3
+121136922 Miguel C. 10h-12h Inscrito FALTA
+122091272 Miguel C. 10h-12h Inscrito 6.5
+122105754 Miguel C. 10h-12h Inscrito 5.8
+122137133 Miguel C. 10h-12h Inscrito FALTA
+122143710 Miguel C. 10h-12h Inscrito 3.6
+122167594 Miguel C. 10h-12h Inscrito 7.2
+122178074 Miguel C. 10h-12h Inscrito 10.0
+122179541 Miguel C. 10h-12h Inscrito 9.3
+123051445 Miguel C. 10h-12h Inscrito 7.2
+123164824 Miguel C. 10h-12h Inscrito 5.0
+123228961 Miguel C. 10h-12h Inscrito 7.9
+123335629 Miguel C. 10h-12h Inscrito 9.3
+123458697 Miguel C. 10h-12h Inscrito 4.3
+123571916 Miguel C. 10h-12h Inscrito 5.8
+123585711 Miguel C. 10h-12h Inscrito 7.2
+123671198 Miguel C. 10h-12h Inscrito 5.8
+123675045 Miguel C. 10h-12h Inscrito 10.0
+123676889 Miguel C. 10h-12h Inscrito 10.0
+123688048 Miguel C. 10h-12h Inscrito 5.0
+123690590 Miguel C. 10h-12h Inscrito 9.3
+123691601 Miguel C. 10h-12h Inscrito 7.9
+123693132 Miguel C. 10h-12h Inscrito 5.8
+123693247 Miguel C. 10h-12h Inscrito 4.3
+123694455 Miguel C. 10h-12h Inscrito 6.5
+123697827 Miguel C. 10h-12h Inscrito 3.6
+123697932 Miguel C. 10h-12h Inscrito 7.9
+123701927 Miguel C. 10h-12h Inscrito 9.3
+123703937 Miguel C. 10h-12h Inscrito 4.3
+123710934 Miguel C. 10h-12h Inscrito 6.5
+123711443 Miguel C. 10h-12h Inscrito 8.6
+123712392 Miguel C. 10h-12h Inscrito 8.6
+123749860 Miguel C. 10h-12h Inscrito 5.8
+123750146 Miguel C. 10h-12h Inscrito 3.6
+123750578 Miguel C. 10h-12h Inscrito 1.5
+123751184 Miguel C. 10h-12h Inscrito 0.8
+123752334 Miguel C. 10h-12h Inscrito 7.2
+123753178 Miguel C. 10h-12h Inscrito 5.0
+123753241 Miguel C. 10h-12h Inscrito 5.8
+120015686 Miguel Reyes 10h-12h Inscrito 5,7
+121084476 Miguel Reyes 10h-12h Inscrito 5,7
+121099803 Miguel Reyes 10h-12h Inscrito 5,8
+122074377 Miguel Reyes 10h-12h Inscrito NP
+122089089 Miguel Reyes 10h-12h Inscrito 5
+122101027 Miguel Reyes 10h-12h Inscrito 5
+122154119 Miguel Reyes 10h-12h Inscrito NP
+122154957 Miguel Reyes 10h-12h Inscrito NP
+122156789 Miguel Reyes 10h-12h Inscrito 2,1
+123042048 Miguel Reyes 10h-12h Inscrito NP
+123048468 Miguel Reyes 10h-12h Inscrito NP
+123184654 Miguel Reyes 10h-12h Inscrito NP
+123301141 Miguel Reyes 10h-12h Inscrito 7,2
+123317702 Miguel Reyes 10h-12h Inscrito NP
+123330302 Miguel Reyes 10h-12h Inscrito NP
+123481983 Miguel Reyes 10h-12h Inscrito NP
+123507470 Miguel Reyes 10h-12h Inscrito 5
+123604468 Miguel Reyes 10h-12h Inscrito FALTA
+123641486 Miguel Reyes 10h-12h Inscrito FALTA
+123644688 Miguel Reyes 10h-12h Inscrito FALTA
+123679057 Miguel Reyes 10h-12h Inscrito 2,9
+123688860 Miguel Reyes 10h-12h Inscrito 3,6
+123695794 Miguel Reyes 10h-12h Inscrito FALTA
+123708513 Miguel Reyes 10h-12h Inscrito FALTA
+123713932 Miguel Reyes 10h-12h Inscrito FALTA
+123750413 Miguel Reyes 10h-12h Inscrito -------
+123751257 Miguel Reyes 10h-12h Inscrito FALTA
+123751671 Miguel Reyes 10h-12h Inscrito FALTA
+123751891 Miguel Reyes 10h-12h Inscrito FALTA
+123761155 Miguel Reyes 10h-12h Inscrito FALTA
+124005934 Miguel Reyes 10h-12h Inscrito 2,1
+124008225 Miguel Reyes 10h-12h Inscrito 2,9
+124009108 Miguel Reyes 10h-12h Inscrito 8,6
+124010604 Miguel Reyes 10h-12h Inscrito 8,6
+124010620 Miguel Reyes 10h-12h Inscrito 5
+124011228 Miguel Reyes 10h-12h Inscrito 7,9
+124012119 Miguel Reyes 10h-12h Inscrito 9,3
+124012363 Miguel Reyes 10h-12h Inscrito 5,7
+124012509 Miguel Reyes 10h-12h Inscrito 2,2
+124012923 Miguel Reyes 10h-12h Inscrito 2,9
+124013408 Miguel Reyes 10h-12h Inscrito 2,9
+124013602 Miguel Reyes 10h-12h Inscrito 5,7
+124013741 Miguel Reyes 10h-12h Inscrito 5
+124013848 Miguel Reyes 10h-12h Inscrito 6,5
+124013929 Miguel Reyes 10h-12h Inscrito 4,3
+124014357 Miguel Reyes 10h-12h Inscrito FALTA
+124014577 Miguel Reyes 10h-12h Inscrito 8,6
+124016294 Miguel Reyes 10h-12h Inscrito 7,9
+124016985 Miguel Reyes 10h-12h Inscrito 8,6
+124017559 Miguel Reyes 10h-12h Inscrito 8,6
+124017575 Miguel Reyes 10h-12h Inscrito FALTA
+124017703 Miguel Reyes 10h-12h Inscrito 7,9
+124021299 Miguel Reyes 10h-12h Inscrito 1,5
+124023534 Miguel Reyes 10h-12h Inscrito 9,3
+124024556 Miguel Reyes 10h-12h Inscrito 3,6
+124025502 Miguel Reyes 10h-12h Inscrito 7,9
+124025780 Miguel Reyes 10h-12h Inscrito 4,3
+124025895 Miguel Reyes 10h-12h Inscrito 3,6
+124026825 Miguel Reyes 10h-12h Inscrito 3,6
+124026930 Miguel Reyes 10h-12h Inscrito 1,5
+124026972 Miguel Reyes 10h-12h Inscrito FALTA
+124028819 Miguel Reyes 10h-12h Inscrito 2,1
+124030400 Miguel Reyes 10h-12h Inscrito 2,2
+124034072 Miguel Reyes 10h-12h Inscrito 2,1
+124034349 Miguel Reyes 10h-12h Inscrito 4,3
+124034365 Miguel Reyes 10h-12h Inscrito 1,4
+124036951 Miguel Reyes 10h-12h Inscrito 1,5
+124039349 Miguel Reyes 10h-12h Inscrito 7,9
+124039608 Miguel Reyes 10h-12h Inscrito FALTA
+124042334 Miguel Reyes 10h-12h Inscrito 5
+124042821 Miguel Reyes 10h-12h Inscrito 7,9
+124043225 Miguel Reyes 10h-12h Inscrito 1,5
+124044815 Miguel Reyes 10h-12h Inscrito 9,3
+124046011 Miguel Reyes 10h-12h Inscrito 7,9
+124047570 Miguel Reyes 10h-12h Inscrito 2,1
+124050890 Miguel Reyes 10h-12h Inscrito 4,3
+124052185 Miguel Reyes 10h-12h Inscrito 3,6
+124052240 Miguel Reyes 10h-12h Inscrito 3,6
+124052591 Miguel Reyes 10h-12h Inscrito 4,3
+124052834 Miguel Reyes 10h-12h Inscrito 1,4
+124054852 Miguel Reyes 10h-12h Inscrito 8,6
+124055044 Miguel Reyes 10h-12h Inscrito 6,5
+124055507 Miguel Reyes 10h-12h Inscrito 5,8
+124056838 Miguel Reyes 10h-12h Inscrito 2,9
+124057062 Miguel Reyes 10h-12h Inscrito 4,3
+124085594 Miguel Reyes 10h-12h Inscrito 4,3
+124085950 Miguel Reyes 10h-12h Inscrito 2,2
+124093830 Miguel Reyes 10h-12h Inscrito 5,8
+124099836 Miguel Reyes 10h-12h Inscrito 1,4
+124099959 Miguel Reyes 10h-12h Inscrito 0
+124102710 Miguel Reyes 10h-12h Inscrito 2,9
+124104160 Miguel Reyes 10h-12h Inscrito 1,4
+124133923 Miguel Reyes 10h-12h Inscrito 2,9
+124135763 Miguel Reyes 10h-12h Inscrito 4,3
+124147451 Miguel Reyes 10h-12h Inscrito 1,4
+124157888 Miguel Reyes 10h-12h Inscrito 0
+124168805 Miguel Reyes 10h-12h Inscrito 7,1
+124170268 Miguel Reyes 10h-12h Inscrito FALTA
+124174759 Miguel Reyes 10h-12h Inscrito 7,9
+124175975 Miguel Reyes 10h-12h Inscrito FALTA
+124176565 Miguel Reyes 10h-12h Inscrito 7,1
+124176688 Miguel Reyes 10h-12h Inscrito FALTA
+124180035 Miguel Reyes 10h-12h Inscrito 5,7
+124180629 Miguel Reyes 10h-12h Inscrito 3,6
+124181308 Miguel Reyes 10h-12h Inscrito 3,6
+124181594 Miguel Reyes 10h-12h Inscrito 6,5
+124183164 Miguel Reyes 10h-12h Inscrito 1,4
+124197600 Miguel Reyes 10h-12h Inscrito 2,9
+124200607 Miguel Reyes 10h-12h Inscrito 0,8
+124202853 Miguel Reyes 10h-12h Inscrito 5,7
+124203192 Miguel Reyes 10h-12h Inscrito FALTA
+124205657 Miguel Reyes 10h-12h Inscrito 1,5
+124205762 Miguel Reyes 10h-12h Inscrito 3,6
+124208867 Miguel Reyes 10h-12h Inscrito 2,1
+124239452 Miguel Reyes 10h-12h Inscrito FALTA
+119130871 Mike 13h-15h Inscrito 0
+120040209 Mike 13h-15h Inscrito 4.3
+120096789 Mike 13h-15h Inscrito 0.8
+120162386 Mike 13h-15h Inscrito 2.2
+120169663 Mike 13h-15h Inscrito 2.9
+120175787 Mike 13h-15h Inscrito 4.3
+121041240 Mike 13h-15h Inscrito 5.8
+121052437 Mike 13h-15h Inscrito 4.3
+121090558 Mike 13h-15h Inscrito 5.8
+121134069 Mike 13h-15h Inscrito 5.8
+121149098 Mike 13h-15h Inscrito 4.3
+121167143 Mike 13h-15h Inscrito 2.9
+121168076 Mike 13h-15h Inscrito 2.9
+121169789 Mike 13h-15h Inscrito 3.6
+121184098 Mike 13h-15h Inscrito 2.9
+122070153 Mike 13h-15h Inscrito 3.6
+122089267 Mike 13h-15h Inscrito 0.8
+122093038 Mike 13h-15h Inscrito 4.3
+122094335 Mike 13h-15h Inscrito 8.6
+122115393 Mike 13h-15h Inscrito 5.8
+122116250 Mike 13h-15h Inscrito 7.2
+122116797 Mike 13h-15h Inscrito 7.2
+122121069 Mike 13h-15h Inscrito 5
+122124546 Mike 13h-15h Inscrito 7.9
+122142324 Mike 13h-15h Inscrito 2.9
+122143011 Mike 13h-15h Inscrito 5.8
+122154371 Mike 13h-15h Inscrito 6.5
+122168207 Mike 13h-15h Inscrito 2.2
+122177109 Mike 13h-15h Inscrito 5.8
+123056526 Mike 13h-15h Inscrito 3.6
+123080460 Mike 13h-15h Inscrito 6.5
+123097069 Mike 13h-15h Inscrito 1.5
+123255073 Mike 13h-15h Inscrito 7.2
+123268628 Mike 13h-15h Inscrito 5
+123276207 Mike 13h-15h Inscrito 7.2
+123322993 Mike 13h-15h Inscrito 2.9
+123341214 Mike 13h-15h Inscrito 8.6
+123429193 Mike 13h-15h Inscrito 2.9
+123467824 Mike 13h-15h Inscrito 3.6
+123520274 Mike 13h-15h Inscrito 5.8
+123528971 Mike 13h-15h Inscrito 6.5
+123544414 Mike 13h-15h Inscrito 4.3
+123585274 Mike 13h-15h Inscrito 4.3
+123595986 Mike 13h-15h Inscrito 1.5
+123601931 Mike 13h-15h Inscrito 0.8
+123618360 Mike 13h-15h Inscrito 2.9
+123658750 Mike 13h-15h Inscrito 1.5
+123674528 Mike 13h-15h Inscrito 6.5
+123674853 Mike 13h-15h Inscrito 3.6
+123676245 Mike 13h-15h Inscrito 6.5
+123679120 Mike 13h-15h Inscrito 8.6
+123679633 Mike 13h-15h Inscrito 8.6
+123689094 Mike 13h-15h Inscrito 5.8
+123689159 Mike 13h-15h Inscrito 2.9
+123697186 Mike 13h-15h Inscrito 5
+123700824 Mike 13h-15h Inscrito 2.2
+123704569 Mike 13h-15h Inscrito 5
+123753144 Mike 13h-15h Inscrito 2.9
+121123270 Pedro 10h-12h Inscrito 0.8
+121133649 Pedro 10h-12h Inscrito 5.0
+121178796 Pedro 10h-12h Inscrito FALTA
+122132882 Pedro 10h-12h Inscrito 2.2
+122133464 Pedro 10h-12h Sem Vaga 5.0
+122137125 Pedro 10h-12h Sem Vaga 6.5
+122137921 Pedro 10h-12h Inscrito 5.0
+122145495 Pedro 10h-12h Sem Vaga 5.0
+122146807 Pedro 10h-12h Inscrito 7.2
+122152947 Pedro 10h-12h Inscrito FALTA
+122157345 Pedro 10h-12h Inscrito 5.0
+123088890 Pedro 10h-12h Inscrito 5.0
+123098382 Pedro 10h-12h Sem Vaga 5.0
+123179219 Pedro 10h-12h Sem Vaga 0.0
+123302969 Pedro 10h-12h Inscrito 4.3
+123341329 Pedro 10h-12h Sem Vaga 7.2
+123343525 Pedro 10h-12h Sem Vaga 5.0
+123436247 Pedro 10h-12h Inscrito 5.8
+123449347 Pedro 10h-12h Inscrito 6.5
+123481983 Pedro 10h-12h Sem Vaga 7.2
+123565402 Pedro 10h-12h Sem Vaga FALTA
+123613043 Pedro 10h-12h Inscrito 2.9
+123676805 Pedro 10h-12h Sem Vaga FALTA
+123688365 Pedro 10h-12h Sem Vaga 2.2
+123690281 Pedro 10h-12h Sem Vaga 2.9
+123692495 Pedro 10h-12h Sem Vaga 0.8
+123692704 Pedro 10h-12h Sem Vaga 5.8
+123693564 Pedro 10h-12h Sem Vaga 2.9
+123694277 Pedro 10h-12h Sem Vaga 2.9
+123695795 Pedro 10h-12h Sem Vaga 6.5
+123703204 Pedro 10h-12h Sem Vaga 1.5
+123703585 Pedro 10h-12h Sem Vaga 3.6
+123704496 Pedro 10h-12h Sem Vaga 4.3
+123704975 Pedro 10h-12h Sem Vaga 2.9
+123707046 Pedro 10h-12h Sem Vaga FALTA
+123708513 Pedro 10h-12h Sem Vaga 4.3
+123708767 Pedro 10h-12h Sem Vaga 7.2
+123710845 Pedro 10h-12h Sem Vaga 5.0
+123713788 Pedro 10h-12h Sem Vaga FALTA
+123749381 Pedro 10h-12h Sem Vaga 2.2
+123750413 Pedro 10h-12h Sem Vaga 2.9
+123750536 Pedro 10h-12h Sem Vaga FALTA
+123751671 Pedro 10h-12h Sem Vaga 3.6
+123751891 Pedro 10h-12h Sem Vaga 2.9
+123752067 Pedro 10h-12h Sem Vaga 1.5
+124006964 Pedro 10h-12h Inscrito 1.5
+124008314 Pedro 10h-12h Inscrito 2.2
+124011919 Pedro 10h-12h Inscrito 8.6
+124013694 Pedro 10h-12h Inscrito 5.8
+124014137 Pedro 10h-12h Inscrito 6.5
+124014755 Pedro 10h-12h Inscrito 8.6
+124014894 Pedro 10h-12h Inscrito 7.9
+124015620 Pedro 10h-12h Inscrito 7.2
+124015719 Pedro 10h-12h Inscrito 5.0
+124018597 Pedro 10h-12h Inscrito 8.6
+124023152 Pedro 10h-12h Inscrito 1.5
+124024297 Pedro 10h-12h Inscrito 8.6
+124027164 Pedro 10h-12h Inscrito 1.5
+124027952 Pedro 10h-12h Inscrito 3.6
+124028940 Pedro 10h-12h Inscrito 9.3
+124029174 Pedro 10h-12h Inscrito 5.0
+124029483 Pedro 10h-12h Inscrito 4.3
+124030808 Pedro 10h-12h Inscrito 3.6
+124031359 Pedro 10h-12h Inscrito 7.2
+124034569 Pedro 10h-12h Inscrito 10.0
+124035206 Pedro 10h-12h Inscrito FALTA
+124036375 Pedro 10h-12h Inscrito 5.0
+124036684 Pedro 10h-12h Inscrito 0.8
+124036969 Pedro 10h-12h Inscrito 1.5
+124037321 Pedro 10h-12h Inscrito 3.6
+124039153 Pedro 10h-12h Inscrito 7.9
+124039307 Pedro 10h-12h Inscrito 8.6
+124041435 Pedro 10h-12h Inscrito 6,5
+124041540 Pedro 10h-12h Inscrito 8.6
+124042300 Pedro 10h-12h Inscrito 0.8
+124043966 Pedro 10h-12h Inscrito 10.0
+124044297 Pedro 10h-12h Inscrito 3.6
+124044946 Pedro 10h-12h Inscrito 9.3
+124046485 Pedro 10h-12h Inscrito 0.0
+124047562 Pedro 10h-12h Inscrito FALTA
+124048550 Pedro 10h-12h Inscrito 5.8
+124050117 Pedro 10h-12h Inscrito 7.9
+124050840 Pedro 10h-12h Inscrito 2.9
+124053042 Pedro 10h-12h Inscrito 5.8
+124053563 Pedro 10h-12h Inscrito 6.5
+124054454 Pedro 10h-12h Inscrito 7.2
+124054616 Pedro 10h-12h Inscrito 7.9
+124055311 Pedro 10h-12h Inscrito 6.5
+124055450 Pedro 10h-12h Inscrito 1.5
+124055858 Pedro 10h-12h Inscrito 0.8
+124056804 Pedro 10h-12h Inscrito 7.2
+124056854 Pedro 10h-12h Inscrito 8.6
+124057842 Pedro 10h-12h Inscrito 5.0
+124080976 Pedro 10h-12h Inscrito 7.2
+124081192 Pedro 10h-12h Inscrito 4.3
+124082211 Pedro 10h-12h Inscrito 0.8
+124086401 Pedro 10h-12h Inscrito 2.2
+124102273 Pedro 10h-12h Inscrito 7.2
+124103481 Pedro 10h-12h Inscrito 8.6
+124108960 Pedro 10h-12h Inscrito FALTA
+124109217 Pedro 10h-12h Inscrito 2.9
+124124178 Pedro 10h-12h Inscrito 4.3
+124139539 Pedro 10h-12h Inscrito 7.2
+124140085 Pedro 10h-12h Inscrito 1.5
+124144453 Pedro 10h-12h Inscrito 3.6
+124158541 Pedro 10h-12h Inscrito 5.8
+124168059 Pedro 10h-12h Inscrito 8.6
+124168091 Pedro 10h-12h Inscrito FALTA
+124173012 Pedro 10h-12h Inscrito 6.5
+124173622 Pedro 10h-12h Inscrito 9.3
+124174165 Pedro 10h-12h Inscrito FALTA
+124174903 Pedro 10h-12h Inscrito 4.3
+124177278 Pedro 10h-12h Inscrito FALTA
+124178119 Pedro 10h-12h Inscrito FALTA
+124178143 Pedro 10h-12h Inscrito 2.9
+124181918 Pedro 10h-12h Inscrito FALTA
+124182590 Pedro 10h-12h Inscrito 2.2
+124183499 Pedro 10h-12h Inscrito 5.0
+124184738 Pedro 10h-12h Inscrito FALTA
+124185077 Pedro 10h-12h Inscrito 3.6
+124205657 Pedro 10h-12h Sem Vaga FALTA
+124205762 Pedro 10h-12h Sem Vaga FALTA
+124986560 Pedro 10h-12h Sem Vaga 2.2
+119093401 Tatiana 15h-17h Inscrito 6,5
+120182491 Tatiana 15h-17h Inscrito 2,2
+121135455 Tatiana 15h-17h Inscrito 6,5
+122157620 Tatiana 15h-17h Inscrito 2,2
+123165260 Tatiana 15h-17h Inscrito 6,5
+123360739 Tatiana 15h-17h Inscrito 1,5
+123637411 Tatiana 15h-17h Inscrito
+123650922 Tatiana 15h-17h Inscrito 4,3
+123693475 Tatiana 15h-17h Inscrito 2,9
+123695231 Tatiana 15h-17h Inscrito 0,8
+123696952 Tatiana 15h-17h Inscrito
+123699324 Tatiana 15h-17h Inscrito 1,5
+123706032 Tatiana 15h-17h Inscrito 4,3
+123713885 Tatiana 15h-17h Inscrito 5,8
+123758445 Tatiana 15h-17h Inscrito 5
+124005489 Tatiana 15h-17h Inscrito 9,3
+124005633 Tatiana 15h-17h Inscrito 4,3
+124006451 Tatiana 15h-17h Inscrito 7,9
+124007114 Tatiana 15h-17h Inscrito 9,3
+124007839 Tatiana 15h-17h Inscrito 1,5
+124008607 Tatiana 15h-17h Inscrito 9,3
+124008665 Tatiana 15h-17h Inscrito 6,5
+124009263 Tatiana 15h-17h Inscrito 3,6
+124009750 Tatiana 15h-17h Inscrito 7,9
+124010442 Tatiana 15h-17h Inscrito
+124011820 Tatiana 15h-17h Inscrito 9,3
+124013068 Tatiana 15h-17h Inscrito 8,6
+124014747 Tatiana 15h-17h Inscrito 8,6
+124014886 Tatiana 15h-17h Inscrito 9,3
+124015078 Tatiana 15h-17h Inscrito 8,6
+124015434 Tatiana 15h-17h Inscrito 7,2
+124015816 Tatiana 15h-17h Inscrito 7,9
+124018165 Tatiana 15h-17h Inscrito 8,6
+124021223 Tatiana 15h-17h Inscrito 7,2
+124021582 Tatiana 15h-17h Inscrito 7,2
+124021891 Tatiana 15h-17h Inscrito 9,3
+124022546 Tatiana 15h-17h Inscrito
+124023136 Tatiana 15h-17h Inscrito 7,2
+124023908 Tatiana 15h-17h Inscrito
+124025308 Tatiana 15h-17h Inscrito 7,9
+124026003 Tatiana 15h-17h Inscrito 6,5
+124026192 Tatiana 15h-17h Inscrito 8,6
+124026524 Tatiana 15h-17h Inscrito 9,3
+124026697 Tatiana 15h-17h Inscrito 7,2
+124026736 Tatiana 15h-17h Inscrito 9,3
+124027538 Tatiana 15h-17h Inscrito 9,3
+124028356 Tatiana 15h-17h Inscrito 8,6
+124028518 Tatiana 15h-17h Inscrito 7,9
+124031676 Tatiana 15h-17h Inscrito 7,9
+124031919 Tatiana 15h-17h Inscrito 5
+124034179 Tatiana 15h-17h Inscrito 8,6
+124034218 Tatiana 15h-17h Inscrito 5
+124034496 Tatiana 15h-17h Inscrito 7,9
+124034810 Tatiana 15h-17h Inscrito 6,5
+124035222 Tatiana 15h-17h Inscrito 8,6
+124035230 Tatiana 15h-17h Inscrito 5,8
+124035264 Tatiana 15h-17h Inscrito 5
+124035442 Tatiana 15h-17h Inscrito 9,3
+124037892 Tatiana 15h-17h Inscrito 9,3
+124037999 Tatiana 15h-17h Inscrito 7,2
+124038288 Tatiana 15h-17h Inscrito 5,8
+124039535 Tatiana 15h-17h Inscrito 9,3
+124040138 Tatiana 15h-17h Inscrito 9,3
+124040625 Tatiana 15h-17h Inscrito 8,6
+124040667 Tatiana 15h-17h Inscrito 7,9
+124041168 Tatiana 15h-17h Inscrito 4,3
+124041524 Tatiana 15h-17h Inscrito 5
+124041752 Tatiana 15h-17h Inscrito 5
+124041778 Tatiana 15h-17h Inscrito 7,9
+124041786 Tatiana 15h-17h Inscrito 4,3
+124042465 Tatiana 15h-17h Inscrito
+124044019 Tatiana 15h-17h Inscrito
+124044548 Tatiana 15h-17h Inscrito 2,9
+124045976 Tatiana 15h-17h Inscrito 7,2
+124046003 Tatiana 15h-17h Inscrito 9,3
+124050549 Tatiana 15h-17h Inscrito 5
+124050646 Tatiana 15h-17h Inscrito 8,6
+124053246 Tatiana 15h-17h Inscrito
+124053458 Tatiana 15h-17h Inscrito 8,6
+124054268 Tatiana 15h-17h Inscrito 1,5
+124054909 Tatiana 15h-17h Inscrito 5
+124055159 Tatiana 15h-17h Inscrito 7,2
+124055670 Tatiana 15h-17h Inscrito 1,5
+124056765 Tatiana 15h-17h Inscrito 3,6
+124057907 Tatiana 15h-17h Inscrito 7,9
+124081647 Tatiana 15h-17h Inscrito 3,6
+124081883 Tatiana 15h-17h Inscrito 5,8
+124088487 Tatiana 15h-17h Inscrito
+124122003 Tatiana 15h-17h Inscrito
+124127582 Tatiana 15h-17h Inscrito 7,2
+124143229 Tatiana 15h-17h Inscrito
+124145213 Tatiana 15h-17h Inscrito 5,8
+124152228 Tatiana 15h-17h Inscrito 7,2
+124152341 Tatiana 15h-17h Inscrito 5,8
+124175747 Tatiana 15h-17h Inscrito
+124176604 Tatiana 15h-17h Inscrito 3,6
+124176777 Tatiana 15h-17h Inscrito 9,3
+124185132 Tatiana 15h-17h Inscrito 2,9
+124199945 Tatiana 15h-17h Inscrito 7,2
+124212044 Tatiana 15h-17h Inscrito
+122087786 (B) Tatiana 15h-17h Inscrito 3,6
+122135458 Tulio Gentil 10h-12h Não Inscrito FALTA
+122169871 Tulio Gentil 10h-12h Não Inscrito 3.6
+123042048 Tulio Gentil 10h-12h Não Inscrito 7.2
+123048468 Tulio Gentil 10h-12h Não Inscrito 2.2
+123184654 Tulio Gentil 10h-12h Não Inscrito 2.9
+123260141 Tulio Gentil 10h-12h Não Inscrito 4.3
+123313392 Tulio Gentil 10h-12h Não Inscrito 5
+123421006 Tulio Gentil 10h-12h Não Inscrito FALTA
+123507470 Tulio Gentil 10h-12h FALTA
+123518950 Tulio Gentil 10h-12h Não Inscrito FALTA
+123540559 Tulio Gentil 10h-12h Não Inscrito 4.3
+123543866 Tulio Gentil 10h-12h Não Inscrito FALTA
+123554582 Tulio Gentil 10h-12h Não Inscrito FALTA
+123572695 Tulio Gentil 10h-12h Não Inscrito 2.9
+123631415 Tulio Gentil 10h-12h Não Inscrito 4.3
+123641486 Tulio Gentil 10h-12h Não Inscrito 4.3
+123644688 Tulio Gentil 10h-12h Não Inscrito 2.2
+123692754 Tulio Gentil 10h-12h Não Inscrito 4.3
+123696106 Tulio Gentil 10h-12h Não Inscrito FALTA
+117090889 Tulio Gentil 10h-12h Inscrito FALTA
+118151955 Tulio Gentil 10h-12h Inscrito FALTA
+119065725 Tulio Gentil 10h-12h Inscrito FALTA
+119137328 Tulio Gentil 10h-12h Inscrito 5.7
+120022316 Tulio Gentil 10h-12h Inscrito 7.2
+120032751 Tulio Gentil 10h-12h Inscrito 7.9
+120034826 Tulio Gentil 10h-12h Inscrito FALTA
+120059745 Tulio Gentil 10h-12h Inscrito 3.6
+120098804 Tulio Gentil 10h-12h Inscrito 7.9
+120165334 Tulio Gentil 10h-12h Inscrito FALTA
+120181908 Tulio Gentil 10h-12h Inscrito 1.5
+121042490 Tulio Gentil 10h-12h Inscrito FALTA
+121046282 Tulio Gentil 10h-12h Inscrito 8.6
+121047513 Tulio Gentil 10h-12h Inscrito 3.6
+121052518 Tulio Gentil 10h-12h Inscrito FALTA
+121152871 Tulio Gentil 10h-12h Inscrito 2.1
+121169828 Tulio Gentil 10h-12h Inscrito 2.9
+121172481 Tulio Gentil 10h-12h Inscrito FALTA
+122030577 Tulio Gentil 10h-12h Inscrito FALTA
+122036905 Tulio Gentil 10h-12h Inscrito 2.9
+122038753 Tulio Gentil 10h-12h Inscrito 2.2
+122043928 Tulio Gentil 10h-12h Inscrito FALTA
+122047176 Tulio Gentil 10h-12h Inscrito 2.9
+122050145 Tulio Gentil 10h-12h Inscrito FALTA
+122060920 Tulio Gentil 10h-12h Inscrito 2.2
+122061714 Tulio Gentil 10h-12h Inscrito 5.8
+122062998 Tulio Gentil 10h-12h Inscrito 5.8
+122063180 Tulio Gentil 10h-12h Inscrito 4.3
+122066845 Tulio Gentil 10h-12h Inscrito 3.6
+122071913 Tulio Gentil 10h-12h Inscrito FALTA
+122078614 Tulio Gentil 10h-12h Inscrito 4.3
+122088805 Tulio Gentil 10h-12h Inscrito 5
+122092359 Tulio Gentil 10h-12h Inscrito 4.3
+122092579 Tulio Gentil 10h-12h Inscrito 5.8
+122096515 (B) Tulio Gentil 10h-12h Não Inscrito 2.9
+122100657 Tulio Gentil 10h-12h Inscrito FALTA
+122100704 Tulio Gentil 10h-12h Inscrito FALTA
+122101093 Tulio Gentil 10h-12h Inscrito 2.2
+122102285 Tulio Gentil 10h-12h Inscrito 5
+122151284 Tulio Gentil 10h-12h Inscrito 2.9
+122151894 Tulio Gentil 10h-12h Inscrito 1.5
+122155987 Tulio Gentil 10h-12h Inscrito 2.9
+122157109 Tulio Gentil 10h-12h Inscrito 7.2
+123043256 Tulio Gentil 10h-12h Inscrito 2.2
+123087894 Tulio Gentil 10h-12h Inscrito FALTA
+123092530 Tulio Gentil 10h-12h Inscrito FALTA
+123199845 Tulio Gentil 10h-12h Inscrito 3.6
+123201723 Tulio Gentil 10h-12h Inscrito 2.9
+123207119 Tulio Gentil 10h-12h Inscrito 7.2
+123232295 Tulio Gentil 10h-12h Inscrito 6.5
+123245701 Tulio Gentil 10h-12h Inscrito FALTA
+123293136 Tulio Gentil 10h-12h Inscrito 10
+123296079 Tulio Gentil 10h-12h Inscrito 4.3
+123303737 Tulio Gentil 10h-12h Inscrito FALTA
+123324204 Tulio Gentil 10h-12h Inscrito 2.2
+123326230 Tulio Gentil 10h-12h Inscrito 8.6
+123360187 Tulio Gentil 10h-12h Inscrito FALTA
+123364709 Tulio Gentil 10h-12h Inscrito 6.5
+123367016 Tulio Gentil 10h-12h Inscrito FALTA
+123369987 Tulio Gentil 10h-12h Inscrito FALTA
+123422010 Tulio Gentil 10h-12h Inscrito FALTA
+123437900 Tulio Gentil 10h-12h Inscrito 4.3
+123460018 Tulio Gentil 10h-12h Inscrito 2.9
+123466616 Tulio Gentil 10h-12h Inscrito 1.5
+123467604 Tulio Gentil 10h-12h Inscrito 5.8
+123507593 Tulio Gentil 10h-12h Inscrito FALTA
+123523793 Tulio Gentil 10h-12h Inscrito FALTA
+123526000 Tulio Gentil 10h-12h Inscrito 7.2
+123531712 Tulio Gentil 10h-12h Inscrito 5
+123535350 Tulio Gentil 10h-12h Inscrito FALTA
+123542983 Tulio Gentil 10h-12h Inscrito 4.3
+123580630 Tulio Gentil 10h-12h Inscrito FALTA
+123637851 Tulio Gentil 10h-12h Inscrito 2.1
+123642042 Tulio Gentil 10h-12h Inscrito 0.7
+123663593 Tulio Gentil 10h-12h Inscrito 7.1
