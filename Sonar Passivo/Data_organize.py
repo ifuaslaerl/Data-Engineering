@@ -18,26 +18,24 @@ def modelate(path):
             os.mkdir(f'{root}/{main_dir}/{archive[:2]}')
             os.rename(new_path,f'{root}/{main_dir}/{archive[:2]}/{archive}')
     
-def last_bar(path) :
-    for i in range(len(path),-1) :
-        if path[i] == '/' : 
-            print(path[:i])
-            return path[:i]
-    
-def move(path1 , path2) :
-    try:
-        os.rename(path1,path2)
-    except FileNotFoundError:
-        os.mkdir(path2)
-        move(path1,last_bar(path2))
+def move(path1 , path2):
+        
+    for i in range(len(path2)):
+        if path2[i] == '/' and not os.path.exists(path2[:i]) :
+            os.mkdir(path2[:i])
 
+    os.rename(path1,path2)
         
-for directorie in os.listdir(path):
-    new_path = os.path.join(path,directorie)
-    archives = os.listdir(new_path)
+def sort_data(root,main_dir,new_dir,sections):
     
-    shuffle(archives)
-    for i in range(len(archives)):
-        
-        path2 = os.path.join(new_path,archives[i])
-        move(path2,f'{root}/{new_dir}/{sections[i%3]}/{directorie}/{archives[i]}')    
+    path = os.path.join(root,main_dir)
+    
+    for directorie in os.listdir(path):
+        new_path = os.path.join(path,directorie)
+        archives = os.listdir(new_path)
+
+        shuffle(archives)
+        for i in range(len(archives)):
+
+            path2 = os.path.join(new_path,archives[i])
+            move(path2,f'{root}/{new_dir}/{sections[i%3]}/{directorie}/{archives[i]}')    
