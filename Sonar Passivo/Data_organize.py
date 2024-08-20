@@ -39,3 +39,7 @@ def sort_data(root,main_dir,new_dir,sections):
 
             path2 = os.path.join(new_path,archives[i])
             move(path2,f'{root}/{new_dir}/{sections[i%3]}/{directorie}/{archives[i]}')    
+
+if __name__ == "__main__" :
+    modelate(path)
+    sort_data(root,main_dir,new_dir,sections)

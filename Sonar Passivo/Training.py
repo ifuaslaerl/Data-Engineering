@@ -2,13 +2,10 @@
 
 import torch
 import torchvision.transforms as transforms
-import matplotlib.pyplot as plt
 import MatDataset
 import Networks
 
 BS = 1 # tamanho dos conjuntos trabalhados
-
-transform = transforms.Compose([transforms.ToTensor()])
 
 # Dataset
 

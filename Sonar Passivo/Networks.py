@@ -23,7 +23,6 @@ class Sonar_CNN(nn.Module):
         self.Conv1d = nn.Conv1d(1 , NF , TK)
         self.MaxPooling1D = nn.MaxPool1d(PO)
         self.Dropout = nn.Dropout(DR)
-        self.flatten = torch.flatten
         self.Dense1 = nn.Linear(121*128,NN)
         self.Dense2 = nn.Linear(NN,28)
 
@@ -35,8 +34,7 @@ class Sonar_CNN(nn.Module):
         x = F.relu(self.Conv1d(x))
         x = self.MaxPooling1D(x)    
         x = self.Dropout(x)
-        x = self.flatten(x,1)
-        x = self.flatten(x)
+        x = torch.flatten(x)
         x = F.relu(self.Dense1(x))
         x = self.Dense2(x)
 
