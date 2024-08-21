@@ -3,6 +3,12 @@ import scipy.io
 import os
 from torch.utils.data import Dataset
 
+def validate_dir(x) :
+  if len(x)!=2 : return False 
+  if x[0] < 'A' or x[0] > 'Z' : return False 
+  if x[1] < '0' or x[1] > '9' : return False 
+  return True
+
 class MatDataset(Dataset) :
 
     def __init__(self , main_path , transform=None) :
@@ -11,8 +17,8 @@ class MatDataset(Dataset) :
         self.data = []
         self.label = []
 
-        self.classes = sorted(os.listdir(main_path))
-        
+        self.classes = [ x for x in sorted(os.listdir(main_path)) if validate_dir(x) ]
+
         for idx , class_name in enumerate(self.classes) :
             class_path = os.path.join(main_path,class_name) 
 
