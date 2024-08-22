@@ -5,8 +5,6 @@ import torch.optim as optim
 import torch.nn.functional as F
 from time import time
 
-NE = 55
-BS = 1
 NF = 128
 TK = 71
 PO = 4
@@ -20,58 +18,68 @@ class Sonar_CNN(nn.Module):
     def __init__(self):
         super(Sonar_CNN, self).__init__()
 
-        self.Conv1d = nn.Conv1d(1 , NF , TK)
-        self.MaxPooling1D = nn.MaxPool1d(PO)
-        self.Dropout = nn.Dropout(DR)
-        self.Dense1 = nn.Linear(121*128,NN)
-        self.Dense2 = nn.Linear(NN,28)
+        self.conv1d = nn.Conv1d(1 , NF , TK)
+        self.maxpooling1d = nn.MaxPool1d(PO)
+        self.dropout = nn.Dropout(DR)
+        self.flatten = nn.Flatten()
 
+        self.dense = nn.Sequential(
+                    nn.Linear(121*128,NN),
+                    nn.ReLU(),
+                    nn.Linear(NN,28)
+                )
+        
         self.criterion = nn.CrossEntropyLoss()
         self.optimizer = optim.Adam(self.parameters())
 
     def forward(self, x):
         
-        x = F.relu(self.Conv1d(x))
-        x = self.MaxPooling1D(x)    
-        x = self.Dropout(x)
-        x = torch.flatten(x)
-        x = F.relu(self.Dense1(x))
-        x = self.Dense2(x)
+        x = F.relu(self.conv1d(x))
+        x = self.maxpooling1d(x)    
+        x = self.dropout(x)
+        x = self.flatten(x)
 
-        return x
+        logits = self.dense(x)
 
-def fit(model,trainloader,validateloader,root):
+        return logits
+
+def train_loop(model,trainloader) :
+
+    model.train()
+    for batch, (X, y) in enumerate(trainloader) :
+
+        pred = model(X)
+        loss = model.criterion(pred, y)
+        
+        loss.backward()
+        model.optimizer.step()
+        model.optimizer.zero_grad()
+
+    return loss
+
+def validate_loop(model,validateloader) : 
+
+    model.eval()
+    validate_loss, correct = 0 , 0
+
+    with torch.no_grad() :
+        for X , y in validateloader:
+                pred = model(X)
+                validate_loss += model.criterion(pred, y).item()
+                correct += (pred.argmax(1) == y).type(torch.float).sum().item()
+
+    return validate_loss , correct/len(validateloader.dataset)
+
+def fit(model,trainloader,validateloader,root,NE):
 
     start = time()
     minimum=inf
     for epoch in range(NE):
-        
-        model.train()
-        train_loss = 0.0
-        for data, label in trainloader:
-            model.optimizer.zero_grad() 
-            outputs = model(data)  
-            loss = model.criterion(outputs, label)
-            loss.backward() 
-            model.optimizer.step()
-            train_loss += loss.item()
-        
-        loss_in = train_loss/len(trainloader)
-        
-        model.eval()
-        validate_loss = 0
-        for data, label in validateloader:
-            with torch.no_grad():
-                outputs = model(data)
-                loss = model.criterion(outputs, label)
-                validate_loss += loss.item()
+    
+        loss_in = train_loop(model,trainloader)
+        loss_out , accuracy = validate_loop(model,validateloader)
 
-        loss_out = validate_loss/len(validateloader)
-
-        print(f'Epoch [{epoch+1}/{NE}] - \
-                Loss_in: {loss_in :.3f} - \
-                Loss_out: {loss_out :.3f} - \
-                in {int(time()-start) :03d} seconds')
+        print(f'Epoch [{epoch+1}/{NE}] - Loss_in: {loss_in :.3f} - Loss_out: {loss_out :.3f} - Accuracy: {(100*accuracy):>0.1f}% - in {int(time()-start) :03d} seconds')
         
         if loss_out < minimum :
             minimum = loss_out
@@ -82,4 +90,5 @@ def fit(model,trainloader,validateloader,root):
             'epoch': epoch,    
             'loss_in' : loss_in,
             'loss_out': loss_out,   
+            'accuracy' : accuracy,
             }, f'{root}/Networks/{int(1000*loss_out) :04d}.pth')
