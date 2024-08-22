@@ -1,35 +1,50 @@
 #Bibliotecas
+
 import torch
 import torchvision.transforms as transforms
-#include Networks
-#include MatDataset
+import MatDataset
+import Networks
 
-BS = 1 # tamanho dos conjuntos trabalhados
-data = '/content/DadosSonar'
+NE = 75
+BS = 2 # tamanho dos conjuntos trabalhados
+data = 'DadosSonar'
+root = ""
 
 def main():
 
-  trainset = MatDataset(os.path.join(data,'train'))
+    device = (
+            "cuda"
+            if torch.cuda.is_available()
+            else "mps"
+            if torch.backends.mps.is_available()
+            else "cpu"
+            )
+    
+    print(f'Using {device} device')
 
-  testset = MatDataset(os.path.join(data,'test'))
+    trainset = MatDataset.MatDataset(f'{data}/train')
 
-  validateset = MatDataset(os.path.join(data,'validate'))
+    testset = MatDataset.MatDataset(f'{data}/test')
 
-  trainloader = torch.utils.data.DataLoader(trainset,
+    validateset = MatDataset.MatDataset(f'{data}/validate')
+
+    trainloader = torch.utils.data.DataLoader(trainset,
                                         batch_size=BS,
                                         shuffle=True,
                                         num_workers=2)
 
-  testloader = torch.utils.data.DataLoader(testset,
+    testloader = torch.utils.data.DataLoader(testset,
                                         batch_size=BS,
                                         shuffle=True,
                                         num_workers=2)
 
-  validateloader = torch.utils.data.DataLoader(validateset,
+    validateloader = torch.utils.data.DataLoader(validateset,
                                         batch_size=BS,
                                         shuffle=True,
                                         num_workers=2)
 
-  model = Sonar_CNN()
+    model = Networks.Sonar_CNN()
 
-  fit(model,trainloader,validateloader,root="Sonar Passivo")
+    Networks.fit(model,trainloader,validateloader,root,NE)
+
+if __name__ == "__main__" : main()
